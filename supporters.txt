@@ -1,0 +1,5 @@
+# LAST ENTRY - Soutiens
+# Un pseudo VRChat exact par ligne, sans guillemets.
+# Les lignes commencant par # sont ignorees.
+# Liste publique : ajouter les pseudos avec l'accord des personnes.
+# Ajouter les pseudos ci-dessous :
