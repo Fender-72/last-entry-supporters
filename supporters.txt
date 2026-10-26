@@ -1,4 +1,5 @@
 # LAST ENTRY - Soutiens
-# Format : Pseudo VRChat | 1 Silver ; | 2 Gold.
+# Format : Pseudo VRChat | 1 Silver ; | 2 Gold ; | 3 Beta Tester.
+# Meme bonus XP global +20% pour les trois badges, non cumulable.
 # pseudos: 
 Shokomaki | 2
