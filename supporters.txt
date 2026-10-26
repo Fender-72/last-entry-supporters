@@ -5,4 +5,5 @@
 # Meme bonus XP global de +20% pour les deux niveaux, non cumulable.
 # Les lignes commencant par # sont ignorees.
 # Liste publique : ajouter les pseudos avec l'accord des personnes.
-# Ajouter les pseudos ci-dessous : Shokomaki | 2
+# Ajouter les pseudos ci-dessous : 
+Shokomaki | 2
