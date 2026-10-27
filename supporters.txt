@@ -1,6 +1,7 @@
 # LAST ENTRY - Soutiens
 # Format : Pseudo VRChat | 1 Silver ; | 2 Gold ; | 3 Beta Tester.
 # pseudos: 
+kinesy | 1 Silver
 Shokomaki | 3
 Neosaku | 3
 stephlan | 3
