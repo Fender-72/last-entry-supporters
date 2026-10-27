@@ -1,0 +1,3806 @@
+{
+  "schemaVersion": 1,
+  "language": "FR",
+  "entries": [
+    {
+      "id": "le_5b3849ec83c3918edefccf4d",
+      "french": "OBJETS",
+      "translation": "OBJETS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5b3849ec83c3918edefccf4dacbc2bff31658daa8bff5d4d14c1c9409d1bd1c0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_dace9f60c29e3cd91feb7627",
+      "french": "COMPETENCES",
+      "translation": "COMPETENCES",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "dace9f60c29e3cd91feb7627b1453f9ba9ef9091cf01876ccf2c5f462603f6f1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_47de4723fe8cabd4ba54e909",
+      "french": "COSMETIQUES",
+      "translation": "COSMETIQUES",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "47de4723fe8cabd4ba54e909e5999db20727c78823b06c3182908e0f253c6f15",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1ed8f0748b4186f626eb3a83",
+      "french": "SHOP",
+      "translation": "SHOP",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1ed8f0748b4186f626eb3a830be164dedfe2e11e11c342d6b4af467c1b48921d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bdd460e577648ba1655f3fc2",
+      "french": "ACHETER",
+      "translation": "ACHETER",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bdd460e577648ba1655f3fc29529f256599232dfe7404a2ad2a19cb5f7bb6507",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c9632f27ebe98d42dc701af5",
+      "french": "CHOISIR",
+      "translation": "CHOISIR",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c9632f27ebe98d42dc701af5b13ee946c8ee6894e1d68edc76e17138d62aad18",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_467c27578117697cbaf07118",
+      "french": "CHOISI",
+      "translation": "CHOISI",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "467c27578117697cbaf07118dad6194f2a9cb50caf31bdabd5cefee0009a4aa6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_eeb4cee8e9644ea3dd0cbe21",
+      "french": "RETIRER",
+      "translation": "RETIRER",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "eeb4cee8e9644ea3dd0cbe213b7f20e797c5682fa7fa4d1e7b105ab50a59bf22",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_61dbcb5b0cc5af8e7eb8f5ba",
+      "french": "VERROUILLE",
+      "translation": "VERROUILLE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "61dbcb5b0cc5af8e7eb8f5bae83a9f7f403e3a9f0b605b7f13058fec3ef9a277",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e09b4c0e54239fd1fffc10fe",
+      "french": "ACHETE",
+      "translation": "ACHETE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e09b4c0e54239fd1fffc10fe8f1d2f2e26f685d9f4e303a6629ae4280d0e72ed",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3fb593d4cb99b490cb70b5d6",
+      "french": "CONFIRMER",
+      "translation": "CONFIRMER",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "3fb593d4cb99b490cb70b5d6780e7fb88aa36de90eaa79f56c850dd0bd318b97",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_7ef2fad58d1f2f12f5d78bdf",
+      "french": "RESET",
+      "translation": "RESET",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "7ef2fad58d1f2f12f5d78bdf7fc7ba3ad9529010ebd071c14d69394153f6106b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4679b3b12de0b53ab1cf09d1",
+      "french": "Aucun",
+      "translation": "Aucun",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4679b3b12de0b53ab1cf09d1072580aac0e1f6e16b1185d109c3a70565b006bb",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a0942d059c23ffb210874a61",
+      "french": "Aucun dossier",
+      "translation": "Aucun dossier",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a0942d059c23ffb210874a610b3358ae35daac57a82bb630198aa865c9c6a238",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d18e5b48d1c228c34ea5febb",
+      "french": "Victoires : ",
+      "translation": "Victoires : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d18e5b48d1c228c34ea5febb70406ad2b5568e8f9dcdde6fed609e7399c74be9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_dfa55401bbc46bd67ab493cc",
+      "french": "Force : ",
+      "translation": "Force : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "dfa55401bbc46bd67ab493ccc1f17742457191956fe2f99748c9d3e26700f2ec",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4367a16e433792e4076bd9d8",
+      "french": "Vitesse : ",
+      "translation": "Vitesse : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4367a16e433792e4076bd9d8682756e7098ffb16dc96dd884601bb3fa2f2bad5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e8c5d4de7b8e79b6e66121f1",
+      "french": "Furtivite : ",
+      "translation": "Furtivite : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e8c5d4de7b8e79b6e66121f1949bffd2be5031dcf486d29bb0d1cb36e6f36d25",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c3cc7ba1b01bb480f0f34876",
+      "french": "Bonus XP : ",
+      "translation": "Bonus XP : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c3cc7ba1b01bb480f0f34876518279ae9a96a2b902fd61326db004167537f6bb",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bbbda8267e49a48dcc162041",
+      "french": "Bonus credits : ",
+      "translation": "Bonus credits : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bbbda8267e49a48dcc162041c22cc64e92ecc274a255de5fc7b23eaa70d2823b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_cb5568b5fa9f84a4ea788300",
+      "french": "Niveau : ",
+      "translation": "Niveau : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "cb5568b5fa9f84a4ea7883000d4093ef5eee524b21ca4e934ab44f011c23e058",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_52b35fdc92d2b702780854eb",
+      "french": "Points : ",
+      "translation": "Points : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "52b35fdc92d2b702780854eb33022b59bce4f9aa047abec7a9307a3b716014ff",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c4ee8378d4bdea4277421d7c",
+      "french": "Niveau requis : ",
+      "translation": "Niveau requis : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c4ee8378d4bdea4277421d7c34ddb27c39cf9d21ed9253e130e31aa89a286ece",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_32ffed19a95b12052158a86a",
+      "french": "Cout : ",
+      "translation": "Cout : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "32ffed19a95b12052158a86ad1fd3886361b3017aa9f8eb466503d13c44190f6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4a0ecfefb44a58131e7ed8dd",
+      "french": " point(s)",
+      "translation": " point(s)",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4a0ecfefb44a58131e7ed8dd9753f72bf6c0130651b9b2ee7c6fb94883c842b0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c95e6869c99b76c2a6e00a3d",
+      "french": "Niv. ",
+      "translation": "Niv. ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c95e6869c99b76c2a6e00a3dd739b43cd8c8f545b4c288bb3464039525a13020",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_eb24fdacec286966c873d4cf",
+      "french": "Aucune competence selectionnee",
+      "translation": "Aucune competence selectionnee",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "eb24fdacec286966c873d4cfaf7b753042b386eb209d9ee3154ca6e4bd50cd24",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_86ac8674242d1d884e5f9975",
+      "french": "Selectionne une competence dans la liste.",
+      "translation": "Selectionne une competence dans la liste.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "86ac8674242d1d884e5f9975a7ec8dec9810d8700eb6d6048040c4c739f41f78",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_49ae160b8072e9ab8bdb2acc",
+      "french": "Selectionne une competence.",
+      "translation": "Selectionne une competence.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "49ae160b8072e9ab8bdb2accc4c66402722b9dc9b89392cd902bf8ca53e3bde2",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a9dd75da3b84ab7277ac5c75",
+      "french": "Selectionne un objet dans la liste.",
+      "translation": "Selectionne un objet dans la liste.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a9dd75da3b84ab7277ac5c750aae4a02bc9ce8cf73391fab59d896f62ba84c70",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_def0e5a32808ce821ed6ec01",
+      "french": "Aucun objet dans le shop.",
+      "translation": "Aucun objet dans le shop.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "def0e5a32808ce821ed6ec01b31778a17cd3f1c80e94ea29743c1b6efdd5285c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d20925474bdced9efc92a0b7",
+      "french": "Aucun objet selectionne",
+      "translation": "Aucun objet selectionne",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d20925474bdced9efc92a0b7aecc37743a4631dbeb69a0d77134dc4495e1a1f5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8b8d6bbc4bf36fcd349a2796",
+      "french": "Objet selectionne : ",
+      "translation": "Objet selectionne : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8b8d6bbc4bf36fcd349a27965e33a4fc7bf58e248b8931d73d30f945f12e8122",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_7c4b71a28a94e32cacd088b1",
+      "french": "Prix : ",
+      "translation": "Prix : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "7c4b71a28a94e32cacd088b13e7ce7a78a2cc747429dafaa6ccb4a3b42f5ccc8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_435794e378a86e14882029f3",
+      "french": " credits",
+      "translation": " credits",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "435794e378a86e14882029f3e72a7e9be23a6ffff53db0b40648f5c491830705",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bd661f2b6dc258cd2ecda3cd",
+      "french": "AUTO-ACHAT\nOUI",
+      "translation": "AUTO-ACHAT\nOUI",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bd661f2b6dc258cd2ecda3cd10cc2619c138c8e38aa1f42d09404ca9afe5deaa",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b39817dbfae778eac9af7ae8",
+      "french": "AUTO-ACHAT\nNON",
+      "translation": "AUTO-ACHAT\nNON",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "b39817dbfae778eac9af7ae8d78a5fd88bb7b3b86422e8884b480ec7885c8186",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8838e4002b90f60c42002cd2",
+      "french": "Crédits : +",
+      "translation": "Crédits : +",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8838e4002b90f60c42002cd2c2a1f70e9ddce29865fdb4e98728a67df76a59a5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_88411c9f64c31be015f06371",
+      "french": "Crédit : ",
+      "translation": "Crédit : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "88411c9f64c31be015f06371f2f3a0e8d627eb8a2e3387afb367f700a308b7e3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_0c51f436a1043ddc7fa158df",
+      "french": "Credits du jeu",
+      "translation": "Credits du jeu",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "0c51f436a1043ddc7fa158dfa20f8e17e0113b16bbba8d9808a639f628e1a5bc",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_64fbfdf9df356de405a65c2b",
+      "french": "Achat VRChat",
+      "translation": "Achat VRChat",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "64fbfdf9df356de405a65c2b2184eb1448083307550104cca085c3c80d351662",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_70fc1f64b9952f31126c75da",
+      "french": "crédits",
+      "translation": "crédits",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "70fc1f64b9952f31126c75dae6a92c4bcee40dee000f1ce8dff018400c2c36f7",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_596663b106bf15a764639360",
+      "french": "Level ",
+      "translation": "Level ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "596663b106bf15a7646393605948d15704abcdff5f90691f43329b4e0fc34a6e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_20c39a8a66abeada9825b6f0",
+      "french": "Experience : ",
+      "translation": "Experience : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "20c39a8a66abeada9825b6f0deea2f8b0053f3fb5ef7ab9aeb8ab360d4d5af24",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_18db0d367705258fb49929ba",
+      "french": "Experience : MAX",
+      "translation": "Experience : MAX",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "18db0d367705258fb49929ba9ca7f12191fc0ea8218ad47e8ae0bdbd88e459d1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_513ffbc511d5d2d20b702324",
+      "french": "Mission terminée",
+      "translation": "Mission terminée",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "513ffbc511d5d2d20b702324712d495f01e95deb0bd8e0a9366c314b0101a619",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_67bde3105d950cd9c3c576c3",
+      "french": "VOUS AVEZ ÉTÉ DÉVORÉ",
+      "translation": "VOUS AVEZ ÉTÉ DÉVORÉ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "67bde3105d950cd9c3c576c32930e95727d52a7ce675959e615a35ebaa10b49f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_94f6f1f15ea79910639b2fe2",
+      "french": "Vous êtes arrivé à ",
+      "translation": "Vous êtes arrivé à ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "94f6f1f15ea79910639b2fe20c11529a233d79ff87ce52908a2228f499a72982",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5fb58d8fc6722fdac2edd8fb",
+      "french": "Classe du slasher : ",
+      "translation": "Classe du slasher : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5fb58d8fc6722fdac2edd8fb864b0e80faeab3515b5631adf9d02409d3d37a76",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f12299caf8786f3dda06885d",
+      "french": "zone inconnue",
+      "translation": "zone inconnue",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f12299caf8786f3dda06885d0fb4f1ff9d9b16784b54228032ef760dd1fcd90b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a0122b629f63432cc036e19d",
+      "french": "INCONNUE",
+      "translation": "INCONNUE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a0122b629f63432cc036e19d83b42c5845eb5c377251d888092f5cc535ed17a1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_370ba7000f57be718a7a40f9",
+      "french": "Pas assez de points de competence.",
+      "translation": "Pas assez de points de competence.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "370ba7000f57be718a7a40f9d668e366a363b77d5300bbbc341e1c83c8b502ca",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a53924ebe4d45b153c0714a2",
+      "french": "Competence deja achetee.",
+      "translation": "Competence deja achetee.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a53924ebe4d45b153c0714a21d4409900843ba98bb6a1ee07ae8add68f0328e3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f68b7b00138db25a2cf78419",
+      "french": "Competence verrouillee. Niveau requis : ",
+      "translation": "Competence verrouillee. Niveau requis : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f68b7b00138db25a2cf7841941c61fdb6cb8ae9e9d698112982dcb6f97729a4f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d3261ce1c27a0d6b8aead438",
+      "french": "Competence achetee : ",
+      "translation": "Competence achetee : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d3261ce1c27a0d6b8aead438d3373d7e39ecc785fb0bbcacecaec28c7b7b4be8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_07488890e0a84533bd6f51e2",
+      "french": "Competences reset. Points recuperes : ",
+      "translation": "Competences reset. Points recuperes : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "07488890e0a84533bd6f51e28d25d400acf73545801e72b1bf9b33725c3d3baf",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e059e375f8b2ff4518e88adc",
+      "french": "Shop indisponible pendant la partie.",
+      "translation": "Shop indisponible pendant la partie.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e059e375f8b2ff4518e88adc169a8929a9df06ef906f1797e1c00016e6e626df",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5e718312aaaecf78a4c2305d",
+      "french": "Auto-achat desactive pour le moment.",
+      "translation": "Auto-achat desactive pour le moment.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5e718312aaaecf78a4c2305d66d1e3fe63b66cde0a0f9023e7fcd6d3b236b231",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5c899a0092f6ba485086e560",
+      "french": "Pas assez de credits au lancement. Objet annule : ",
+      "translation": "Pas assez de credits au lancement. Objet annule : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5c899a0092f6ba485086e560c8d281f57eb6040ea9a522870ffbce671f970ea8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_db48c0754762f39f81847882",
+      "french": "Chargement des donnees du joueur...",
+      "translation": "Chargement des donnees du joueur...",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "db48c0754762f39f81847882a68126ca03081f6da9bc63699f601e07c8e8989f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_195ed8f4012cb551f5c5ca20",
+      "french": "Credits du jeu insuffisants ou donnees indisponibles.",
+      "translation": "Credits du jeu insuffisants ou donnees indisponibles.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "195ed8f4012cb551f5c5ca20a2d7f3ba292f7668f5c2e4127187e2c285389b23",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_736c23227ecd22cac80b5487",
+      "french": "La mission est terminée, vous pouvez retourner au camion",
+      "translation": "La mission est terminée, vous pouvez retourner au camion",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "736c23227ecd22cac80b548765867cab93afa2d01c3c03160524e55e1f586499",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6830288bd2aebcfbc4670796",
+      "french": "Chargement XP...",
+      "translation": "Chargement XP...",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "6830288bd2aebcfbc4670796f6350d1ec74de4f0146b831f14382f239fd64867",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b72f3b9868cf893482f1133a",
+      "french": "Credits : ",
+      "translation": "Credits : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "b72f3b9868cf893482f1133adfce39b1a14b4456271cabd07fe77f96787b83db",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9e9462f98f82d8b951801cb6",
+      "french": "Points competence : ",
+      "translation": "Points competence : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9e9462f98f82d8b951801cb6a3e314bd7365dec50aeb5fb774f45aafbf34c3ce",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_14673f3df051427275d3732d",
+      "french": "Spectateur\nAucune partie en cours",
+      "translation": "Spectateur\nAucune partie en cours",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "14673f3df051427275d3732df412efd085930c15fe05af5d43bfc17191254461",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_088bcaf1ff1110363c8cb7eb",
+      "french": "Spectateur\nAucun joueur vivant",
+      "translation": "Spectateur\nAucun joueur vivant",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "088bcaf1ff1110363c8cb7eba4a74cdccb99ebb1289eb0c39344ecee160fdb77",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_311cb25b373bcedc97b7a2a1",
+      "french": "Spectateur\nCible : ",
+      "translation": "Spectateur\nCible : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "311cb25b373bcedc97b7a2a139893d59a497cf31aba16d3941f0321690940635",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_25dc3b3e7111c9761310dcc6",
+      "french": "\nBoutons : precedent / suivant",
+      "translation": "\nBoutons : precedent / suivant",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "25dc3b3e7111c9761310dcc6a451925e292f89fa633847a7601a499a8233a411",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_694079a2199079d8298bd35f",
+      "french": "Spectateur\nBoutons : precedent / suivant",
+      "translation": "Spectateur\nBoutons : precedent / suivant",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "694079a2199079d8298bd35f414fc630ba9cb0ded8bc3eb1740317f2a69488c9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1b08a85398c8fb134b3036d8",
+      "french": "UdonProduct VRChat manquant.",
+      "translation": "UdonProduct VRChat manquant.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1b08a85398c8fb134b3036d8c09be6531be01e9c7bbadd6afeccadf60134e5e3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_64349fc78e8d1dcdf6b2037a",
+      "french": "ID de listing VRChat manquant.",
+      "translation": "ID de listing VRChat manquant.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "64349fc78e8d1dcdf6b2037afa5a21e64d74f4c8cd914913a30e477fe74ab00d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e91249afec0b065e35974df2",
+      "french": "Selectionne d'abord un objet dans la liste.",
+      "translation": "Selectionne d'abord un objet dans la liste.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e91249afec0b065e35974df2023175630ddcccec84460e7a5b62ffa2b74297e0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ad70aac4051669d3fbc600f2",
+      "french": "Appuie encore pour confirmer le reset.",
+      "translation": "Appuie encore pour confirmer le reset.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ad70aac4051669d3fbc600f25e9e542a4447769b22354d2047de4392512ff713",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5b78e75d89b41704fc77b334",
+      "french": "Auto-achat limite aux 30 premiers objets.",
+      "translation": "Auto-achat limite aux 30 premiers objets.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5b78e75d89b41704fc77b334a6d8b4933a40227745f388621450439fb0100871",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_44b19fcb63d88ee6d437ece0",
+      "french": "Kit de soin",
+      "translation": "Kit de soin",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "44b19fcb63d88ee6d437ece041e3ed62fe7d44db8b2534be6e28eeba53572a1c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ca61292340bd1007404155ff",
+      "french": "Fentanyl",
+      "translation": "Fentanyl",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ca61292340bd1007404155ff92ac22d0cfd0445519ad92c15e168929575873f5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_23c3af2419ac68a15b7de55a",
+      "french": "Specter-X",
+      "translation": "Specter-X",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "23c3af2419ac68a15b7de55a0669a614500dca99fa2bc5bf168e17a26c61c120",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_28059523e22f99bdebc57283",
+      "french": "Dead Line",
+      "translation": "Dead Line",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "28059523e22f99bdebc5728368e66b35490ae73efcbeb67864b50fe1c396bbcd",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9d5a39a70b5ea79f85f908bd",
+      "french": "Objets",
+      "translation": "Objets",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9d5a39a70b5ea79f85f908bda18317d00205e1647afd6009df64879acdf92b7d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6272d058ffc163ef728dbfbc",
+      "french": "Parfait pour soigner les bobo laissé par le travail \nLa société ne couvre pas les frais si vous vous coincez les doigts dans une porte.\n[HP+50]",
+      "translation": "Parfait pour soigner les bobo laissé par le travail \nLa société ne couvre pas les frais si vous vous coincez les doigts dans une porte.\n[HP+50]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "6272d058ffc163ef728dbfbcf52d5231c5ef0a4b6b7fc11aae3f82cfaa348bc7",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_31a3520e61ea32cf41fac77d",
+      "french": "Un analgésique opioïde de synthèse extrêmement puissant jusqu'à 50 à 100 fois plus puissant que la morphine\nVous recevrez moins de dégats pendant un moment.\n/!\\ Vendu en toute illégalité par la société /!\\\n[-50% de dégats 20 secondes]",
+      "translation": "Un analgésique opioïde de synthèse extrêmement puissant jusqu'à 50 à 100 fois plus puissant que la morphine\nVous recevrez moins de dégats pendant un moment.\n/!\\ Vendu en toute illégalité par la société /!\\\n[-50% de dégats 20 secondes]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "31a3520e61ea32cf41fac77de8afa2958b419e39d0f12173fbfb7f9476549a38",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8f64d4702121ac66f6a1459c",
+      "french": "Un composé expérimental qui brouille temporairement votre présence aux yeux des Slasher.\nInjectez. Disparaissez. Essayez de ne pas penser à ce qu’il y avait réellement dans la seringue.\n[Invisibilité: 20 secondes]",
+      "translation": "Un composé expérimental qui brouille temporairement votre présence aux yeux des Slasher.\nInjectez. Disparaissez. Essayez de ne pas penser à ce qu’il y avait réellement dans la seringue.\n[Invisibilité: 20 secondes]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8f64d4702121ac66f6a1459c2d4059df7d6f45eecc2d5212ae0b8d4e3b819600",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ce11c865f68026f8007c3f96",
+      "french": "Une fois activé, il déclenche une série de sons particulièrement agaçants qui attirent l’attention du Slasher et augmentent fortement son agressivité.\n\nVestige Corporation recommande de ne pas rester à proximité après activation.",
+      "translation": "Une fois activé, il déclenche une série de sons particulièrement agaçants qui attirent l’attention du Slasher et augmentent fortement son agressivité.\n\nVestige Corporation recommande de ne pas rester à proximité après activation.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ce11c865f68026f8007c3f96b5a41087d291a57b11e45aa9c86451f01a430f1e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_007033567d9e19efbb2b8410",
+      "french": "Bonne sante",
+      "translation": "Bonne sante",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "007033567d9e19efbb2b8410f77c1e2aa0256abae9bdddfca24c20932949553f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_daa783e23c0fa99906a556a9",
+      "french": "Enorme et sec",
+      "translation": "Enorme et sec",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "daa783e23c0fa99906a556a96f86161e99d28b6e8f050212aff5ec17a086145f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_165b9265631e71f8731b10cb",
+      "french": "Rapido",
+      "translation": "Rapido",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "165b9265631e71f8731b10cb6852c5db9514baed0bc9030d5490faf558b94ebe",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_53cdaef79185138a55e9aa2b",
+      "french": "Froussard",
+      "translation": "Froussard",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "53cdaef79185138a55e9aa2bfbc79f7575fb353581652a73bd9427ca69bbb41f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_48e641831b9d3a83f2dc0f76",
+      "french": "Chouchou",
+      "translation": "Chouchou",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "48e641831b9d3a83f2dc0f761f08b8752d89b657ab3eee19dbaa3bd2cd45c03b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a9cdd5dc2eded3294104781c",
+      "french": "Premier de la classe",
+      "translation": "Premier de la classe",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a9cdd5dc2eded3294104781c0fb794bc3e6141407c52ac75800c694abffc2404",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c0b21fb164deefc90926e559",
+      "french": "Tank",
+      "translation": "Tank",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c0b21fb164deefc90926e559b64753c1c9ed1d14b09f3b8f283e8fe5df4cf2c4",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1a732bed02f8a6d8430daf94",
+      "french": "Force de Kabosu",
+      "translation": "Force de Kabosu",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1a732bed02f8a6d8430daf94601ca4aa522a69cf6bbc42893ca480cf2ccbe2d1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c65466aa0c6688432d42a40e",
+      "french": "Sprinter",
+      "translation": "Sprinter",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c65466aa0c6688432d42a40e5bb077d21a1431780c569c777e6d5b3ff0f7ab42",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_98e72ed1dd21a650e2776b8c",
+      "french": "Expert en furtivité",
+      "translation": "Expert en furtivité",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "98e72ed1dd21a650e2776b8c7fb249fac4aef10464d3c2c78fbe669e0ece1282",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9b7a248ca3a22795aadad960",
+      "french": "Leche botte",
+      "translation": "Leche botte",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9b7a248ca3a22795aadad9609252c249a9be072965375f1d33bb67aa4ea3bdd3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e439db17170735eb1bac8c4c",
+      "french": "Studieux",
+      "translation": "Studieux",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e439db17170735eb1bac8c4ca139cce289a8a2a8b515191c0e26ae132ffb7ab7",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e3818c7886164dae9924fa5f",
+      "french": "Detection",
+      "translation": "Detection",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e3818c7886164dae9924fa5fb18ad2433eebae0564363c66912e0cfb7e25973d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ec37e1373c18045864f3e075",
+      "french": "Gigachad",
+      "translation": "Gigachad",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ec37e1373c18045864f3e0755b2cdbbc9c9ab1403826d24745e1005a0bea7ed6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b322f68a35fd02ebd4220e63",
+      "french": "Van sprinter",
+      "translation": "Van sprinter",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "b322f68a35fd02ebd4220e63804f3f399a6ae4ad1ad6f845fc5f7b2d9dd8d5c3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_210bd02e1eb3b8b7791452e6",
+      "french": "Statique",
+      "translation": "Statique",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "210bd02e1eb3b8b7791452e6f07ffa4e3aa324c6a5849dba655ebd652031ebbc",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f8fc055345dedcb40a591889",
+      "french": "Oportuniste",
+      "translation": "Oportuniste",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f8fc055345dedcb40a591889cedc2943aa4789cd0edad018c8761d4e599d6ab6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_95a2a9c013c836a1f6709024",
+      "french": "Chef de bureau",
+      "translation": "Chef de bureau",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "95a2a9c013c836a1f6709024fa1a7232770bc37ac2674aba89000f2e97992760",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_70f49a61b36996ac04fdcb22",
+      "french": "Pas de panique",
+      "translation": "Pas de panique",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "70f49a61b36996ac04fdcb22aefd43b391542c6960e88d761953549e8802784c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_64d66991e5a950e49636f6b2",
+      "french": "Infirmier",
+      "translation": "Infirmier",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "64d66991e5a950e49636f6b2becf5d1ff232269e550cf39f478f1c9b6f08e9a9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ab862bf7fb25e45eb9da7c5d",
+      "french": "Glass sprinter",
+      "translation": "Glass sprinter",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ab862bf7fb25e45eb9da7c5d73f7f560d5fdef2ad0f454012e36b770d46fb11e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_027b8503ba16f65e1e90fff6",
+      "french": "Racon",
+      "translation": "Racon",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "027b8503ba16f65e1e90fff6ff6692d192b9d6135e9acdb816c8fe0cd5e37e03",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_09a837620c2f3ad032443cb0",
+      "french": "Junkie",
+      "translation": "Junkie",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "09a837620c2f3ad032443cb097cf4baae595ad59385cdac5180bcc5170879685",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_24e8c292bf451afb5b6af021",
+      "french": "Expert en la matiere",
+      "translation": "Expert en la matiere",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "24e8c292bf451afb5b6af0213498539ce1a85875fa12aebeb29ab0cddada3730",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_98c318e9cf5584210a87e798",
+      "french": "ADN",
+      "translation": "ADN",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "98c318e9cf5584210a87e7989cbc205c70e9020a2713cf0ff8f63bfdce4e8369",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b7b6f15395d6c8f341ce6220",
+      "french": "Noris",
+      "translation": "Noris",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "b7b6f15395d6c8f341ce6220fedf522019df0a66a8209420607a9e0bc86c6e00",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_0ff0ef099ecb754b08b36053",
+      "french": "Zeus",
+      "translation": "Zeus",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "0ff0ef099ecb754b08b36053f2a8327f0d5b470cc3656c9fd043b9d1a2d719f5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_04f5242fed1b693b5d4297b5",
+      "french": "Agent secret",
+      "translation": "Agent secret",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "04f5242fed1b693b5d4297b54835dae768b63557880f1f85222a9f47be116514",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_81b1bf6e9f52881c925937a3",
+      "french": "Perfection",
+      "translation": "Perfection",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "81b1bf6e9f52881c925937a349c66980e06de30acb34c09bda37b8b6013af7db",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_449dbe8e1b4762b100fd1d4a",
+      "french": "Chataniste",
+      "translation": "Chataniste",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "449dbe8e1b4762b100fd1d4a98b68f4b769d501e3043a051a3b14149bfeed300",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a1fb72abe992f4260b654d7f",
+      "french": "Bravo !\nA force de prendre des coups tu es devenu plus résistant \n[HP +10]",
+      "translation": "Bravo !\nA force de prendre des coups tu es devenu plus résistant \n[HP +10]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a1fb72abe992f4260b654d7fe503f56323e00b84e96023a48b52003e44fb2081",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8430ba08b6b8ce6b09d49cea",
+      "french": "Vous avez suivis des tutos sur internet pour devenir plus fort.\nVous faites plus de bruit à cause de vos gros muscles.\n[Force +0.1]\n[Furtivité -0.2]",
+      "translation": "Vous avez suivis des tutos sur internet pour devenir plus fort.\nVous faites plus de bruit à cause de vos gros muscles.\n[Force +0.1]\n[Furtivité -0.2]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8430ba08b6b8ce6b09d49cea1238cf5dea89ec2956fc0e3458e8b0af3e3bd1d6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_37afd97c267d4cee181c4a5d",
+      "french": "Vous êtes le plus rapide pour quitter l'entreprise le soir et c'est déjà bien.\n[Vitesse +0.1]",
+      "translation": "Vous êtes le plus rapide pour quitter l'entreprise le soir et c'est déjà bien.\n[Vitesse +0.1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "37afd97c267d4cee181c4a5ddb91da230c586d3b061ecd4fe9900c348a6da75e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_68c3483726868ddaf20811e8",
+      "french": "Tu es nouveau dans l'entreprise et depuis la peur de retrouver un monstre sous ton lit est de plus en plus grande.\nVous savez vous faire tout petit\n[Furtivité +0.1]",
+      "translation": "Tu es nouveau dans l'entreprise et depuis la peur de retrouver un monstre sous ton lit est de plus en plus grande.\nVous savez vous faire tout petit\n[Furtivité +0.1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "68c3483726868ddaf20811e86994e2ea8ef4e481f1edb98d340d1e4a08191831",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_21974ec796a873bff371098e",
+      "french": "Avec cette bonne tête vous faites bonne impréssion le patron vous aime bien et vous paye plus que les autres mais chut...\n[Credit +0.2]",
+      "translation": "Avec cette bonne tête vous faites bonne impréssion le patron vous aime bien et vous paye plus que les autres mais chut...\n[Credit +0.2]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "21974ec796a873bff371098e8367c12a32cf0aac8968ded282de58d834239937",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4456824ea3e21f87fef3d2e1",
+      "french": "Les calculs c'est ton truc tu connais tes tables de multiplication.\n[XP +0.1]",
+      "translation": "Les calculs c'est ton truc tu connais tes tables de multiplication.\n[XP +0.1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4456824ea3e21f87fef3d2e13b6164a05535f13abfb2b8bbeae06f7803e4ad73",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_503409c4351fd6f110d20279",
+      "french": "Tu es plus résistant que la plus pars des gens.\n[HP +20]",
+      "translation": "Tu es plus résistant que la plus pars des gens.\n[HP +20]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "503409c4351fd6f110d20279d4335783479c67e6b317a4a8bd9266168ed61d61",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b6c3baea14202fceadba35ee",
+      "french": "Powaaa tu es encore pris des muscle depuis notre dernière rencontre\nc'est quoi ton secret ?\n[Force +0.3]\n[Furtivité -0.2]",
+      "translation": "Powaaa tu es encore pris des muscle depuis notre dernière rencontre\nc'est quoi ton secret ?\n[Force +0.3]\n[Furtivité -0.2]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "b6c3baea14202fceadba35ee751193322894504370710cd9a8f63698934c4354",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a858404c6c5c222b724a8647",
+      "french": "Toujours préssé tu devrais te calmer un peu tu risque de te blésser\n[Vitesse +0.3]\n[HP -15]",
+      "translation": "Toujours préssé tu devrais te calmer un peu tu risque de te blésser\n[Vitesse +0.3]\n[HP -15]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a858404c6c5c222b724a86470409cb469afd96fa2109e92ecdf134c816cb302d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5c4c0459ada0519d8a8c326e",
+      "french": "Pourquoi tu te cache toujours ?\nTu as peur de recevoir plus de travail ?\n[Furtivité +0.6]\n[Vitesse -0.2]",
+      "translation": "Pourquoi tu te cache toujours ?\nTu as peur de recevoir plus de travail ?\n[Furtivité +0.6]\n[Vitesse -0.2]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5c4c0459ada0519d8a8c326ea3b12a0b598fefb0e318cb1a6cfa233dce0eabbd",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8d82290e38450ef9e493979b",
+      "french": "Encore en train de faire le lèche botte pour recevoir un plus gros salaire que tes collègue ?\nEt bah tu as raison !\n[Credit + 0.4]",
+      "translation": "Encore en train de faire le lèche botte pour recevoir un plus gros salaire que tes collègue ?\nEt bah tu as raison !\n[Credit + 0.4]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8d82290e38450ef9e493979b7e671f257b673f0d6b1fcdf2f590fd95da655381",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_71a1a30f94f8311cfaf31530",
+      "french": "Tu aurais pu travailler dans les bureaux de la société au lieu de partir sur le terrain\n[XP +0.3]\n[HP -5]",
+      "translation": "Tu aurais pu travailler dans les bureaux de la société au lieu de partir sur le terrain\n[XP +0.3]\n[HP -5]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "71a1a30f94f8311cfaf31530ba50956c91f487b73ee4e0be96e99d1acce8754a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_75cf7196933fcaaf13212860",
+      "french": "Tu es très sensible au bruit des slashers\n[Compétence: Detection]\n[HP+5]\n[Vitesse -0.1]",
+      "translation": "Tu es très sensible au bruit des slashers\n[Compétence: Detection]\n[HP+5]\n[Vitesse -0.1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "75cf7196933fcaaf13212860d9598fbd3d96f9ff3cb2763fff7b13f37e7d9ed9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ab6b0d4ad950100ae4aab2da",
+      "french": "Tu es vraiment un Gigachad une force pareil c'est pas humain\n[Force +0.5}\n[Furtivité -0.1]",
+      "translation": "Tu es vraiment un Gigachad une force pareil c'est pas humain\n[Force +0.5}\n[Furtivité -0.1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ab6b0d4ad950100ae4aab2daca40da4e0b845b83eb5d6272faba8fe04d45201d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_0b8dd5bc1c4de6e729553773",
+      "french": "Fin de mission!\nPas le temps il faut rentrer à la maison !\n[Compétence: Vitesse +0.8 une fois les objectif accomplis]",
+      "translation": "Fin de mission!\nPas le temps il faut rentrer à la maison !\n[Compétence: Vitesse +0.8 une fois les objectif accomplis]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "0b8dd5bc1c4de6e729553773506eabb32ea6e6d3d4eb1b29375b90768db69600",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c81275c633ce7bcd6c7bd83c",
+      "french": "Ne bouge plus d'un poil !\n[Compétence: Ne pas bouger augmente la furtivité de 0.6]",
+      "translation": "Ne bouge plus d'un poil !\n[Compétence: Ne pas bouger augmente la furtivité de 0.6]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c81275c633ce7bcd6c7bd83c5a2a934691ff4284ad6ed17cb56c20cd8eddba97",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e8d7500867da630eeb5808a9",
+      "french": "Tu te fais toujours acheté par le chef pour faire le salle boulot au détriment de tes conaissance\n[Credit: +1]\n[XP: -1]",
+      "translation": "Tu te fais toujours acheté par le chef pour faire le salle boulot au détriment de tes conaissance\n[Credit: +1]\n[XP: -1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e8d7500867da630eeb5808a9a8044476bd82ef5bc0c0a1419c85876a235498da",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2b16d98c74ba8755fd482505",
+      "french": "Ok toi t'es un vrai chef tu travail beaucoup mais tu es pas foutu de te payer toi même...\nTu es pas très apte au terrain.\n[Credit: -1]\n[XP: +1]\n[HP -30]\n[Vitesse -0.1]",
+      "translation": "Ok toi t'es un vrai chef tu travail beaucoup mais tu es pas foutu de te payer toi même...\nTu es pas très apte au terrain.\n[Credit: -1]\n[XP: +1]\n[HP -30]\n[Vitesse -0.1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2b16d98c74ba8755fd482505ba74764e4b849531a6b7bca0e35c5ea6118afd0a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_baf3b82cbdb4c8abcab03f02",
+      "french": "Quand sa chauffe tu es du genre très calme... ou pas !\n[Compétence: Quand tu prend un dégat augmente ta vitesse de 0.8  pendant 20 secondes]",
+      "translation": "Quand sa chauffe tu es du genre très calme... ou pas !\n[Compétence: Quand tu prend un dégat augmente ta vitesse de 0.8  pendant 20 secondes]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "baf3b82cbdb4c8abcab03f028222a43baf177dbdd7d7eae0e481d4ebc4257997",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_37f07babe041b7dad9de96da",
+      "french": "Ton groupe sanguin est compatible avec toute l'équipe du terrain tu peux donner ton sang pour les soigner.\n[Compétence: Permet de soigner un joueur en restant appuyer sur saut pendant 3 secondes, vous donner 10HP par manipulation]",
+      "translation": "Ton groupe sanguin est compatible avec toute l'équipe du terrain tu peux donner ton sang pour les soigner.\n[Compétence: Permet de soigner un joueur en restant appuyer sur saut pendant 3 secondes, vous donner 10HP par manipulation]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "37f07babe041b7dad9de96da0d4c3d71732ab99b58a7ac18a7b8ec4fbe83e6f2",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bdd7747577df6fc973c93111",
+      "french": "Tu es un vrai sprinter avec des jambes très fragile\n[Vitesse: +0.5]\n[HP: -25]",
+      "translation": "Tu es un vrai sprinter avec des jambes très fragile\n[Vitesse: +0.5]\n[HP: -25]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bdd7747577df6fc973c93111599b671c6a791442fb809407b805b7d57c72c8c8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_fd6513775c610f467cf3259c",
+      "french": "Manger des déchets t'es pas sérieux ?\n[Compétence: vous pouvez manger les déchets pour vous soigner]",
+      "translation": "Manger des déchets t'es pas sérieux ?\n[Compétence: vous pouvez manger les déchets pour vous soigner]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "fd6513775c610f467cf3259c5e917f0b051d4737039cbd1348bdbd489a0a8572",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_de1e40903787ace79be378b2",
+      "french": "Les effets de la Xylazine ne vous détruisent plus après utilisation\n[Force: -0.2]",
+      "translation": "Les effets de la Xylazine ne vous détruisent plus après utilisation\n[Force: -0.2]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "de1e40903787ace79be378b2e0c3e67f6b76daf7051bc203c77ebd74b7441f69",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8b23417d546f77274dc96a29",
+      "french": "Les bureaux le terrain tu sais absolument tout faire !\n[XP: +0.4]\n[Credit: +0.4]",
+      "translation": "Les bureaux le terrain tu sais absolument tout faire !\n[XP: +0.4]\n[Credit: +0.4]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8b23417d546f77274dc96a29af969c890b9e9e425267c591b1bc884d93f45f31",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_289de41d45fb6e1920b6229a",
+      "french": "Ton adn est modifié suite à une blessure donné par un slasher pendant une mission.\n[Compétence: Quand vous ne bougez vous gagnez 1hp toutes les 2 secondes]",
+      "translation": "Ton adn est modifié suite à une blessure donné par un slasher pendant une mission.\n[Compétence: Quand vous ne bougez vous gagnez 1hp toutes les 2 secondes]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "289de41d45fb6e1920b6229a6f20842f3b0033afb2cd0ce8b3bb2873d730737a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_02eb6c10d14aaad4c0259c77",
+      "french": "Tu es tellement puissant rien ne peux arêter ta progression !\n[Force: +1]",
+      "translation": "Tu es tellement puissant rien ne peux arêter ta progression !\n[Force: +1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "02eb6c10d14aaad4c0259c77a7415bfb0d76e4121e12f73f1ee938c27ba652de",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_063c206a9f772c5a67ce3318",
+      "french": "Tu as une bénédiction c'est celle de courir aussi vite que l'éclair\n[Vitesse: +0.8]",
+      "translation": "Tu as une bénédiction c'est celle de courir aussi vite que l'éclair\n[Vitesse: +0.8]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "063c206a9f772c5a67ce331841f59f953919145a0e2a5bf18b8f94c24b4790d3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d31563c9170aab3e9ca97817",
+      "french": "Ta furtivité est juste énorme tu étais dans les forces spéciales ?\n [Furtivité: +0.8]",
+      "translation": "Ta furtivité est juste énorme tu étais dans les forces spéciales ?\n [Furtivité: +0.8]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d31563c9170aab3e9ca9781768f2e345fd32c78fd75ce88edd98fe6a0e82e908",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_553060869e55db76a620eff5",
+      "french": "Viser la perfection c'est vraiment ton truc !\n[HP: +10]\n[Force: +0.3]\n[Vitesse: +0.3]\n[Furtivité: +0.3]\n[XP: +0.1]\n[Credit: +0.1]",
+      "translation": "Viser la perfection c'est vraiment ton truc !\n[HP: +10]\n[Force: +0.3]\n[Vitesse: +0.3]\n[Furtivité: +0.3]\n[XP: +0.1]\n[Credit: +0.1]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "553060869e55db76a620eff5414a689d3861c4fedf8dfcd570ea541efe75c812",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f8a342d58f21b92d0450f9b0",
+      "french": "Tu as vu le visage de la mort plusieurs fois.\n[Compétence: 50% de rescuciter au camion lors de votre mort]",
+      "translation": "Tu as vu le visage de la mort plusieurs fois.\n[Compétence: 50% de rescuciter au camion lors de votre mort]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f8a342d58f21b92d0450f9b04febff9ad004b8f6deb2176b40b39c6046c865f9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_0ff7eddf4138c3c3c06d6952",
+      "french": "Deep Blue",
+      "translation": "Deep Blue",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "0ff7eddf4138c3c3c06d69522c63939c234d34645c46236f1498502a4b877e64",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_fb9bcd81027bf922d7672c77",
+      "french": "Biohazard Beam",
+      "translation": "Biohazard Beam",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "fb9bcd81027bf922d7672c77cddbfdd3784a79c2ffbb7915a43364af805080e3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3a61b69fc7f6a87248bb7104",
+      "french": "Blood Beam",
+      "translation": "Blood Beam",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "3a61b69fc7f6a87248bb7104e4f6c7b28503dceb0fd36e11f98b7b033235123e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8346280bb2f78c3f2b763678",
+      "french": "Cold Beam",
+      "translation": "Cold Beam",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8346280bb2f78c3f2b763678e06c6207ee0116592f86a188f3377fb3030da9fe",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2da9fc1835eb5b1cd4c4aa6a",
+      "french": "Cute Mistake",
+      "translation": "Cute Mistake",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2da9fc1835eb5b1cd4c4aa6a8402dae89491321d55388c2ebf2d7efac873b033",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_cf44d7636302a39a909179a5",
+      "french": "Sodium Light",
+      "translation": "Sodium Light",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "cf44d7636302a39a909179a5dce053fc9222685fa419154e9f75ab177053b283",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_7a34b8f59106a395dcd8b078",
+      "french": "Transforme le faisceau de votre lampe en bleu profond. Vestige Corporation décline toute responsabilité concernant les choses que vous pourriez mieux distinguer.",
+      "translation": "Transforme le faisceau de votre lampe en bleu profond. Vestige Corporation décline toute responsabilité concernant les choses que vous pourriez mieux distinguer.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "7a34b8f59106a395dcd8b078907274664bafedec37155b7b6cf7e71e81f3f774",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a3d6ed4458fd1a3f8bff1d79",
+      "french": "Une lumière verte qui ressemble presque à de la vision nocturne. Presque...",
+      "translation": "Une lumière verte qui ressemble presque à de la vision nocturne. Presque...",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a3d6ed4458fd1a3f8bff1d7929dd690c5cc7921b835e0c448e6d664fa6f91c4d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_98866e6f3b8db19fe482bd1b",
+      "french": "Remplace la lumière de votre lampe par un faisceau rouge d’urgence. Si l’alarme ne vous inquiète pas, ce qu’elle éclaire le fera.",
+      "translation": "Remplace la lumière de votre lampe par un faisceau rouge d’urgence. Si l’alarme ne vous inquiète pas, ce qu’elle éclaire le fera.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "98866e6f3b8db19fe482bd1b369e40917ec623a7df9da36473d7c2ff09cedfa7",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_be00623f064f3479e444c9ac",
+      "french": "Remplace la lumière de votre lampe par une teinte bleue glaciale. Aucun avantage. Juste une meilleure façon de voir ce qui va vous tuer.",
+      "translation": "Remplace la lumière de votre lampe par une teinte bleue glaciale. Aucun avantage. Juste une meilleure façon de voir ce qui va vous tuer.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "be00623f064f3479e444c9ac8cd6dcd426ce3bee3856feca8446dfc922b5e56d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f01fd39184cf4ee38e7d7866",
+      "french": "Un faisceau rose bonbon. Parce qu’apparemment, mourir avec style était une demande fréquente.",
+      "translation": "Un faisceau rose bonbon. Parce qu’apparemment, mourir avec style était une demande fréquente.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f01fd39184cf4ee38e7d7866f4da2b915e133eec6129a3aa158ccca170694d70",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_64dd9ec6974004560df6bc13",
+      "french": "Un éclairage orange rappelant les vieux lampadaires. Très rétro. Très peu rassurant.",
+      "translation": "Un éclairage orange rappelant les vieux lampadaires. Très rétro. Très peu rassurant.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "64dd9ec6974004560df6bc13e9ba1860226e4ab9409ca61481d8495800c886f3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_65eb08bfb1479d7feffb62a5",
+      "french": "Free Huggy",
+      "translation": "Free Huggy",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "65eb08bfb1479d7feffb62a570aefe3551303ba0995db281826e30c55cc79596",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_24a04b952069bab1730c8c79",
+      "french": "DeadSpine",
+      "translation": "DeadSpine",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "24a04b952069bab1730c8c79a5fd6faf9cb720b86586479642b82ad002ac9384",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e7116301563bc98658305edb",
+      "french": "Cocatrice",
+      "translation": "Cocatrice",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e7116301563bc98658305edb709ed09ca63061cf42773c4927614c3f71d06463",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3742f754bb85d0b563205e7b",
+      "french": "Smiler",
+      "translation": "Smiler",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "3742f754bb85d0b563205e7b5e14f7fcb3246df0ff14228c235b94ce7cb7145c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b5b9bc13e5948433dd4f1614",
+      "french": "Sujet : FREE HUGGY\r\nOrigine : Mascotte scolaire / Fan de metal\nNiveau de danger : UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNote du personnel :\r\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
+      "translation": "Sujet : FREE HUGGY\r\nOrigine : Mascotte scolaire / Fan de metal\nNiveau de danger : UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNote du personnel :\r\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "b5b9bc13e5948433dd4f1614f18398be14872997e5bfea4ff1bbbe2e2b96204c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_98a429212bbe68bfc89cdc33",
+      "french": "Sujet : DEADSPINE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nDeadSpine a été signalé pour la première fois dans une forêt dense après la disparition de plusieurs promeneurs.\nLa zone était particulièrement encombrée de bois mort, de troncs couchés et de branches sèches.\nD’après les premiers rapports, certains témoins auraient aperçu la créature sans comprendre immédiatement ce qu’ils regardaient. Les longues excroissances présentes dans son dos auraient été confondues avec des branches mortes dépassant entre les arbres.\nUne erreur qui leur a laissé très peu de temps pour réagir.\nLorsqu’il se déplace, ses excroissances produisent des craquements très proches de ceux du bois sec. Dans ce type d’environnement, il devient presque impossible de savoir si le bruit vient de la forêt… ou de lui.\nDeadSpine possède une vue anormalement développée et semble capable de repérer un mouvement à très longue distance, même à travers une végétation dense.\nEn revanche, plusieurs rapports de terrain indiquent qu’il serait complètement sourd.\nLe bruit ne semble donc pas être un problème.\nÊtre vu, en revanche, en est un.\nNote du personnel :\nDe nuit, ses yeux sont visibles bien avant le reste de son corps.\nSi deux lumières rouges vous observent entre les arbres, ne restez pas là pour vérifier ce que c’est.",
+      "translation": "Sujet : DEADSPINE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nDeadSpine a été signalé pour la première fois dans une forêt dense après la disparition de plusieurs promeneurs.\nLa zone était particulièrement encombrée de bois mort, de troncs couchés et de branches sèches.\nD’après les premiers rapports, certains témoins auraient aperçu la créature sans comprendre immédiatement ce qu’ils regardaient. Les longues excroissances présentes dans son dos auraient été confondues avec des branches mortes dépassant entre les arbres.\nUne erreur qui leur a laissé très peu de temps pour réagir.\nLorsqu’il se déplace, ses excroissances produisent des craquements très proches de ceux du bois sec. Dans ce type d’environnement, il devient presque impossible de savoir si le bruit vient de la forêt… ou de lui.\nDeadSpine possède une vue anormalement développée et semble capable de repérer un mouvement à très longue distance, même à travers une végétation dense.\nEn revanche, plusieurs rapports de terrain indiquent qu’il serait complètement sourd.\nLe bruit ne semble donc pas être un problème.\nÊtre vu, en revanche, en est un.\nNote du personnel :\nDe nuit, ses yeux sont visibles bien avant le reste de son corps.\nSi deux lumières rouges vous observent entre les arbres, ne restez pas là pour vérifier ce que c’est.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "98a429212bbe68bfc89cdc334eb762e6fdfe7caa8e055c7906bd08a69fe62e43",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9ded14b8169e123020284daa",
+      "french": "Sujet : COCATRICE\nOrigine : Inconnue\nNiveau de danger : RAVAGER\n\nLa Cocatrice est une créature quadrupède dont la morphologie rappelle celle d’un immense lézard. Sa tête est presque entièrement occupée par une mâchoire disproportionnée, garnie de plusieurs rangées de dents.\nLe premier cas connu remonte à une ferme isolée.\nDurant la nuit, la créature aurait pénétré dans un enclos et décimé un troupeau entier de moutons. Le propriétaire, alerté par le bruit, aurait tenté d’intervenir.\nSon corps fut retrouvé près de l’enclos.\nLes seuls survivants furent ses enfants, restés endormis à l’intérieur de la maison pendant toute l’attaque.\nLa Cocatrice possède une audition extrêmement développée et semble capable de localiser une proie au moindre son.\nSa morsure est considérée comme systématiquement mortelle.\nSon venin attaque presque immédiatement le système nerveux. Les victimes perdent rapidement le contrôle de leurs muscles avant que les tissus ne commencent à se rigidifier et à prendre progressivement l’apparence de la pierre.\nLa paralysie intervient suffisamment vite pour empêcher la victime de crier ou même d’appeler à l’aide.\nNote du personnel :\nSi elle vous mord, n’essayez pas de hurler.\nVos nerfs auront probablement cessé de vous écouter avant vous.",
+      "translation": "Sujet : COCATRICE\nOrigine : Inconnue\nNiveau de danger : RAVAGER\n\nLa Cocatrice est une créature quadrupède dont la morphologie rappelle celle d’un immense lézard. Sa tête est presque entièrement occupée par une mâchoire disproportionnée, garnie de plusieurs rangées de dents.\nLe premier cas connu remonte à une ferme isolée.\nDurant la nuit, la créature aurait pénétré dans un enclos et décimé un troupeau entier de moutons. Le propriétaire, alerté par le bruit, aurait tenté d’intervenir.\nSon corps fut retrouvé près de l’enclos.\nLes seuls survivants furent ses enfants, restés endormis à l’intérieur de la maison pendant toute l’attaque.\nLa Cocatrice possède une audition extrêmement développée et semble capable de localiser une proie au moindre son.\nSa morsure est considérée comme systématiquement mortelle.\nSon venin attaque presque immédiatement le système nerveux. Les victimes perdent rapidement le contrôle de leurs muscles avant que les tissus ne commencent à se rigidifier et à prendre progressivement l’apparence de la pierre.\nLa paralysie intervient suffisamment vite pour empêcher la victime de crier ou même d’appeler à l’aide.\nNote du personnel :\nSi elle vous mord, n’essayez pas de hurler.\nVos nerfs auront probablement cessé de vous écouter avant vous.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9ded14b8169e123020284daadaf385418759b1d4240fd5f6aedc9c4b0267c57b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_84dc7e6f52aa3c8ee4877fde",
+      "french": "Sujet : SMILER\nOrigine : Inconnue\nNiveau de danger : UNSTABLE\r\n\nLes premiers signalements parlent de simples visages observés dans des zones plongées dans le noir. Aucun corps n’a jamais été aperçu.\n\nLes Smilers semblent apparaître depuis un endroit inconnu, sans point d’entrée visible. Une autre hypothèse évoque une créature encore non identifiée capable de les invoquer ou de les envoyer sur place.\n\nLe nombre de Smilers augmente selon le nombre de personnes présentes dans la zone.\n\nFAIBLESSE\n\nLa lumière continue ne suffit pas.\n\nLe Smiler doit être flashé directement avec la lampe. Un flash correctement placé le force à disparaître.\n\nIl peut cependant revenir plus tard.\n\nNOTE VESTIGE\n\nNous ignorons d’où ils viennent.\n\nNous ignorons qui les envoie.\n\nMais nous savons qu’un flash fonctionne. Pour le moment, cela suffit.",
+      "translation": "Sujet : SMILER\nOrigine : Inconnue\nNiveau de danger : UNSTABLE\r\n\nLes premiers signalements parlent de simples visages observés dans des zones plongées dans le noir. Aucun corps n’a jamais été aperçu.\n\nLes Smilers semblent apparaître depuis un endroit inconnu, sans point d’entrée visible. Une autre hypothèse évoque une créature encore non identifiée capable de les invoquer ou de les envoyer sur place.\n\nLe nombre de Smilers augmente selon le nombre de personnes présentes dans la zone.\n\nFAIBLESSE\n\nLa lumière continue ne suffit pas.\n\nLe Smiler doit être flashé directement avec la lampe. Un flash correctement placé le force à disparaître.\n\nIl peut cependant revenir plus tard.\n\nNOTE VESTIGE\n\nNous ignorons d’où ils viennent.\n\nNous ignorons qui les envoie.\n\nMais nous savons qu’un flash fonctionne. Pour le moment, cela suffit.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "84dc7e6f52aa3c8ee4877fde7a422af13a3c6694c2970d7f492ba90ec11d1d4c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d9d0455a15c18b678528cffe",
+      "french": "Vestige corporation",
+      "translation": "Vestige corporation",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d9d0455a15c18b678528cffecb4de82e2c41a3ccb957d024e9a647c22a16bd21",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2b32beaeb79c961c60617672",
+      "french": "Destination: ",
+      "translation": "Destination: ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2b32beaeb79c961c60617672ca2e1a8106a07de34783a543a04ec589b45ab087",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_93b1ea98ca8121882d99565e",
+      "french": "Classe du slasher: ",
+      "translation": "Classe du slasher: ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "93b1ea98ca8121882d99565e9804c5ba9b4b56ac362b2873ae75e4fe1f61c2c8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_0dea09606573c35ccebe8171",
+      "french": "Employee consumed",
+      "translation": "Employee consumed",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "0dea09606573c35ccebe81716b6e253782970e28c6394805de8d4060507c5b06",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_75e812942ad2fb36b7249111",
+      "french": "Vestige Estate",
+      "translation": "Vestige Estate",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "75e812942ad2fb36b724911150037aea3a130490c9b368dbbcab7d7d67e3577c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_802b814cc25884de33d20c11",
+      "french": "Bravo ! A force de prendre des coups tu es devenu plus résistant \n[HP+10]",
+      "translation": "Bravo ! A force de prendre des coups tu es devenu plus résistant \n[HP+10]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "802b814cc25884de33d20c1124535e05a438ec325395a1a0aa4c34d04803fad7",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5898dc7af786a8e7d6241652",
+      "french": "Experience : 0 / 300",
+      "translation": "Experience : 0 / 300",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5898dc7af786a8e7d624165295991e5095a51e64b85131fdcdbf6918e7801e44",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bf2c2ba27f18ad2feb566515",
+      "french": "SKILL",
+      "translation": "SKILL",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bf2c2ba27f18ad2feb566515d26e4278e0a7c2fe0b1ec4b07898b803e6d41646",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8a7f6cd7e17fd653fb96d512",
+      "french": "Credits : 0",
+      "translation": "Credits : 0",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8a7f6cd7e17fd653fb96d512e370d5b791d1c5e624e38d8a5ce731f614536d0b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d27e95191640556bb0524c17",
+      "french": "TIER V (level 100)",
+      "translation": "TIER V (level 100)",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d27e95191640556bb0524c172b91b4a89226d98ada6eef9991ff965bfcc2cf0b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f8ad2f51ab916b4136e30e32",
+      "french": "Cette expérience contient des sursauts effrayants (jumpscares), des sons forts et des lumières clignotantes.\nElle est déconseillée aux personnes souffrant de problèmes cardiaques ou sensibles aux lumières clignotantes.",
+      "translation": "Cette expérience contient des sursauts effrayants (jumpscares), des sons forts et des lumières clignotantes.\nElle est déconseillée aux personnes souffrant de problèmes cardiaques ou sensibles aux lumières clignotantes.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f8ad2f51ab916b4136e30e322471b727c2355da543631b695303a070c8e02f4d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8271b5bedd1ee9d6a65a1dfa",
+      "french": "XP : +20    Crédits : +150",
+      "translation": "XP : +20    Crédits : +150",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8271b5bedd1ee9d6a65a1dfa7164ec3adc40a67bf9d4b974ddd60d0828c9ee82",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_31505ffcf2330c2b53b27616",
+      "french": "Value: 3\nPrime: 1",
+      "translation": "Value: 3\nPrime: 1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "31505ffcf2330c2b53b2761605d669b9697c5cb3725e1d0038cadb283c750748",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_66740475d0a05ddcaa5674c3",
+      "french": "Value: 50\nPrime: 25",
+      "translation": "Value: 50\nPrime: 25",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "66740475d0a05ddcaa5674c3be1650145c020b32b8b828b89a89bea37508640e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4a6c4396464bb66a553ff75e",
+      "french": "TIER I (level 1)",
+      "translation": "TIER I (level 1)",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4a6c4396464bb66a553ff75eb1683e5ffe46bef2798e9eddd0ff0d86449bb3d6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_804ae877559749a16fc538e5",
+      "french": "Le joueur à la télé",
+      "translation": "Le joueur à la télé",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "804ae877559749a16fc538e568e791330e4fcc25fd1b71cb16215d4836996594",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_07138a1687a7d9e5e8c8b3c9",
+      "french": "0 crédits",
+      "translation": "0 crédits",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "07138a1687a7d9e5e8c8b3c91228e2316694b98b0a270a1bdb35fd54f8b38e3f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_febf5d91020c69f494320268",
+      "french": "Lampe Bleu",
+      "translation": "Lampe Bleu",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "febf5d91020c69f494320268567addc9c5cc2c4dbabd2e8d017a131bef5e20f6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_7a38720c738b9c2498158c82",
+      "french": "Value: 100\nPrime: 50",
+      "translation": "Value: 100\nPrime: 50",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "7a38720c738b9c2498158c825e267d96521664869ff7d0996e3a9581da247f06",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_aac6ae7f2426e9afb42dc4b8",
+      "french": "Victoire: 1",
+      "translation": "Victoire: 1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "aac6ae7f2426e9afb42dc4b89703557e0ee5514c95bb0cd93db4dba7b80dcb53",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9c53c074d7ac6a2728b638ac",
+      "french": "skill",
+      "translation": "skill",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9c53c074d7ac6a2728b638ac1f376c5fa9eb8f71603017c3ea638c2fd40548df",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c137e78beb42d57932998e54",
+      "french": "Furtivité : 1",
+      "translation": "Furtivité : 1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c137e78beb42d57932998e54b74ac7f45f3ff066ae16ef70a0ffb81fc552c51f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5e3d6f29e3b960205f87ae67",
+      "french": "[Cosmetique]\nTransforme le faisceau de votre lampe en bleu profond. Vestige Corporation décline toute responsabilité concernant les choses que vous pourriez mieux distinguer.",
+      "translation": "[Cosmetique]\nTransforme le faisceau de votre lampe en bleu profond. Vestige Corporation décline toute responsabilité concernant les choses que vous pourriez mieux distinguer.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5e3d6f29e3b960205f87ae67df363e9f4183a94eff1d1c65ca64d7ac3ea3fffa",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d81674b2bdd5e6040532eea9",
+      "french": "LEVEL",
+      "translation": "LEVEL",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d81674b2bdd5e6040532eea9bf30c4e1813f87db874078284dd00cfa198e47fc",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5b50297055a649e8429b91e2",
+      "french": "Objet choisi : Aucun",
+      "translation": "Objet choisi : Aucun",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5b50297055a649e8429b91e2300a33815b15e4dba9960bcc3bb805f6d3c954fc",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_707eab0c23ecbf6e5382ba61",
+      "french": "Button",
+      "translation": "Button",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "707eab0c23ecbf6e5382ba61a346bc76aefee81303280fc0e08e59df18afbf8a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5feceb66ffc86f38d952786c",
+      "french": "0",
+      "translation": "0",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5feceb66ffc86f38d952786c6d696c79c2dbc239dd4e91b46729d73a27fb57e9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6305dc50c529a84cdd29215e",
+      "french": "Bonus crédits : X1",
+      "translation": "Bonus crédits : X1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "6305dc50c529a84cdd29215e47bc4ca1aa1813d390da7943d379f0e43d00b571",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1dbad392e094f2aea3cebabb",
+      "french": "Value: 200\nPrime: 100",
+      "translation": "Value: 200\nPrime: 100",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1dbad392e094f2aea3cebabbbcdc6c9b5bea23d178b6e34d916fb8d0d7c27951",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2c3f54fbf6b463ad15c68200",
+      "french": "ACCEPTER",
+      "translation": "ACCEPTER",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2c3f54fbf6b463ad15c68200a97a2eef3bfdc44b7ee47cd04028fce4989b5cc0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_de1d49d61067881f1a36e14a",
+      "french": "Sujet : FREE HUGGY\r\nAncienne fonction : Mascotte scolaire / Animation\r\nClasse: UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNote du personnel :\r\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
+      "translation": "Sujet : FREE HUGGY\r\nAncienne fonction : Mascotte scolaire / Animation\r\nClasse: UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNote du personnel :\r\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "de1d49d61067881f1a36e14a3a54dbb1b5384aca8ae2055352f5350c2c52675b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_0626a6a87b811746f2ff5e67",
+      "french": "Value: 30\nPrime: 15",
+      "translation": "Value: 30\nPrime: 15",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "0626a6a87b811746f2ff5e67b8d8e69cae84c86fd623d73fe1bd66cb2369096d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e1e89f4f25c57a0dec2a1acc",
+      "french": "Level  1",
+      "translation": "Level  1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e1e89f4f25c57a0dec2a1acce8e6cf648818c187b6d59110199f37609c158dbe",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_775a53c73877128ecd747f64",
+      "french": "Vous êtes arrivé à Manoir",
+      "translation": "Vous êtes arrivé à Manoir",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "775a53c73877128ecd747f64cc294b2c0df09dc8eafdf9a5bc106c76fc5958db",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_260c0c8d6f9d1b6614409032",
+      "french": "Mission accomplie",
+      "translation": "Mission accomplie",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "260c0c8d6f9d1b66144090322ee09b7314c105df9aad8b1d276049c9ef401425",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bfc1e0f40a0a2711b601b40c",
+      "french": "Value: 6\nPrime: 3",
+      "translation": "Value: 6\nPrime: 3",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bfc1e0f40a0a2711b601b40cf8d96fea65c06f87ccde448f777f4f0cecf9e052",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2015d7ec19ef9e9baaa053c5",
+      "french": "Classe du slasher : RAVAGER",
+      "translation": "Classe du slasher : RAVAGER",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2015d7ec19ef9e9baaa053c5587f9f0d0162a91dd0f19bbf008a763f08a9848f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_92f0e1412dd54ab2bb42d589",
+      "french": "TIER II (level 15)",
+      "translation": "TIER II (level 15)",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "92f0e1412dd54ab2bb42d589871b3f3d0e8d954840baa9c89951563c96c98880",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_92e211b2eac2a4d202d944ab",
+      "french": "RESET\n",
+      "translation": "RESET\n",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "92e211b2eac2a4d202d944abd0bc7dc0a764c9318854e2dfedfcea1fb2eab509",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bcd5688ad9485d3b31f7953e",
+      "french": "Event =>",
+      "translation": "Event =>",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bcd5688ad9485d3b31f7953e52168b861871e108cd6225bc78bbce0a3d6ebec6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ba9c6cad8bb9dc0944485c39",
+      "french": "Force : 1",
+      "translation": "Force : 1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ba9c6cad8bb9dc0944485c39e23cc0f15ac8f16b1c6289d6e08e66e9a54832fc",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9b7b1142cdac1d9fc195c1ed",
+      "french": "Cout : 1 point",
+      "translation": "Cout : 1 point",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9b7b1142cdac1d9fc195c1eda1925cb1591b6ef31145f21d83920cdd166183ba",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6f0759f72b9a57a0b4922248",
+      "french": "Value: 1000\nPrime: 500",
+      "translation": "Value: 1000\nPrime: 500",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "6f0759f72b9a57a0b4922248e2f1c431e1a2c622ddbeed21dd5b3c48dc8dbd22",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_7ed0c4d4c1751698c15b572c",
+      "french": "Bonus XP : X1",
+      "translation": "Bonus XP : X1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "7ed0c4d4c1751698c15b572c91e9b7c87b2e37170189b29ea669bc593c924769",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1818f3316e06813cd6e46acc",
+      "french": "Avertissent",
+      "translation": "Avertissent",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1818f3316e06813cd6e46acc7b0ec4942bed3129ef055ee03cdaa56c2b49f885",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_822dd9ad631225ce360738d4",
+      "french": "+12 XP",
+      "translation": "+12 XP",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "822dd9ad631225ce360738d40f25d216bc31bf00f3a2d5e71cbe02ae3a8d7133",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_85879650d1fe35076c12dc88",
+      "french": "Game Credits",
+      "translation": "Game Credits",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "85879650d1fe35076c12dc881fcc950d8bc6b7892bf01e6dacaeb4cf95871634",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_adb53126d7f2d10ff58a449d",
+      "french": "UNSTABLE",
+      "translation": "UNSTABLE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "adb53126d7f2d10ff58a449d7d2072b0dcbe6e21e7c17352e69c831842d92f1e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b781b18b7034636763075df1",
+      "french": "Value: 12\nPrime: 6",
+      "translation": "Value: 12\nPrime: 6",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "b781b18b7034636763075df111b5ad92f4b06be130b88bbf51a9239143900e83",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e0ba63c76aab31fc7b69d897",
+      "french": "Level: 0",
+      "translation": "Level: 0",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e0ba63c76aab31fc7b69d89753ccfd50c084b8805fae7ab0f9e691c24b516d64",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_21e694c041c9e493ef829fa2",
+      "french": "Niveau : ...\nXP : ...\nCredits : ...",
+      "translation": "Niveau : ...\nXP : ...\nCredits : ...",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "21e694c041c9e493ef829fa221abd900643a97c4be8ed16e15dbe45210f94be5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ad57366865126e55649ecb23",
+      "french": "100",
+      "translation": "100",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ad57366865126e55649ecb23ae1d48887544976efea46a48eb5d85a6eeb4d306",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5c8d656db12b4f8576a8c1c7",
+      "french": "VRChat Credits",
+      "translation": "VRChat Credits",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5c8d656db12b4f8576a8c1c7ba0cc19bd0099ce0469255f5e6a6a3a065ae839f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_960197b908b1d4b42868346d",
+      "french": "Parfait pour soigner les bobo laissé par le travail \nLa société ne couvre pas les frais si vous vous coincez les doigts dans une porte",
+      "translation": "Parfait pour soigner les bobo laissé par le travail \nLa société ne couvre pas les frais si vous vous coincez les doigts dans une porte",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "960197b908b1d4b42868346d0707ed9e8930c04a9e1522e9dc47d8c1f3fa429f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_06ea5d4c44e5f68800fd2c34",
+      "french": "Skill Points:",
+      "translation": "Skill Points:",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "06ea5d4c44e5f68800fd2c3440a5b4c612168c25a20f9834318a639404ca8b69",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_471a82e60f11f78f37b2e1e6",
+      "french": "Value: 20\nPrime: 10",
+      "translation": "Value: 20\nPrime: 10",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "471a82e60f11f78f37b2e1e669b830b316d14de46a21573738ee6850ceb2e34a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3a8447f1245983bfee6528b8",
+      "french": "TIER IV (level 60)",
+      "translation": "TIER IV (level 60)",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "3a8447f1245983bfee6528b83458de0393c0968004e30a06948df877b6af2bf4",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_82a5a9cbe2eff862d8355901",
+      "french": "100 / 100",
+      "translation": "100 / 100",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "82a5a9cbe2eff862d8355901ed302b6571cfcc8e94cecad8da6adac6fd2653e9",
+      "archived": false,
+      "excluded": true
+    },
+    {
+      "id": "le_55c89d714867e9a3b399ca33",
+      "french": "Vitesse : X1",
+      "translation": "Vitesse : X1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "55c89d714867e9a3b399ca33cda7272000dc80595ecd57a7b33cc46ac74ed375",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2ec267f21a5377f7c35dbb89",
+      "french": "Crédit : 100",
+      "translation": "Crédit : 100",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2ec267f21a5377f7c35dbb8920b1d913d4ba9ce03ee7a3beb7454415147386ea",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_cc3778663a50b781dd7696d0",
+      "french": "[OBJETS]",
+      "translation": "[OBJETS]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "cc3778663a50b781dd7696d0b76cb41d6eaa38ea2d5a921c68e2aaa05a384378",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_48abe17489f051f8056179a8",
+      "french": "Value: 300\nPrime: 150",
+      "translation": "Value: 300\nPrime: 150",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "48abe17489f051f8056179a88468c99551f769a60cbec70020ba50ec36a60c49",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9fd8b666b3c1b1936ac5220e",
+      "french": "AUTO-ACHAT",
+      "translation": "AUTO-ACHAT",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9fd8b666b3c1b1936ac5220e100f6ab8f8def40c22e9b2313bcc9ac68a7aa8a1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ba2d4a189d24874fad72eeb1",
+      "french": "Niveau requis : 1",
+      "translation": "Niveau requis : 1",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ba2d4a189d24874fad72eeb16b1feb54ab745d0523e4cd92ae67ece6a52540d0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_14c7c8d671e17a8e82501b91",
+      "french": "Déséquiper",
+      "translation": "Déséquiper",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "14c7c8d671e17a8e82501b9110ba1feff172a291d56fb6480f754eb868598a46",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2f49129499fff6ebaf21b6e7",
+      "french": "TIER III (level 30)",
+      "translation": "TIER III (level 30)",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2f49129499fff6ebaf21b6e72ad39d5ae2865f2813edbff2a9952187e98a3a86",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1854c72a1bcbc4c4778cba0e",
+      "french": "Sujet : FREE HUGGY\r\nOrigine : Mascotte scolaire / Fan de metal\nNiveau de danger : UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNOTE VESTIGE:\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
+      "translation": "Sujet : FREE HUGGY\r\nOrigine : Mascotte scolaire / Fan de metal\nNiveau de danger : UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNOTE VESTIGE:\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1854c72a1bcbc4c4778cba0ec7b9cf4583841d0a30e7db181bb58039e611b6fb",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_62161ec2087ea164447cc5ee",
+      "french": "Sujet : LES ENFANTS DE LA LUNE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nLes Enfants de la Lune ont été signalés après la disparition d’une équipe envoyée inspecter une propriété abandonnée. Le matériel a été retrouvé à proximité du bâtiment. Certaines lampes étaient encore allumées.\n\nLes derniers clichés montrent une dizaine de formes spectrales flottant entre les arbres. Leur nom apparaît dans les archives locales, associé à une ancienne disparition d’enfants. Rien ne permet de confirmer que ces fantômes sont les leurs.\n\nLa lune semble dicter leur comportement.\nLa lune violette accompagne généralement les premières manifestations.\nLes fantômes restent invisibles et aucun contact mortel n’a été rapporté durant cette période. Ils continuent cependant de se déplacer.\n\nSous la lune normale, ils errent lentement et poursuivent les personnes qu’ils aperçoivent.\n\nLa lune rouge déclenche une chasse beaucoup plus agressive : les entités retrouvent leurs cibles même lorsqu’elles se cachent.\n\nLa lune verte exige le silence. Les bruits attirent les fantômes, qui fouillent ensuite les environs de leur provenance.\n\nSous la lune ambre, ils poursuivent les personnes en mouvement. Un employé a survécu en restant immobile contre un mur. L’apparition s’est arrêtée devant lui, puis s’est détournée lorsque son collègue a pris la fuite.\n\nLa lune bleue permet de les arrêter en les regardant. Les témoins précisent qu’ils reprennent leur approche dès que l’attention se porte ailleurs.\n\nEntre chaque lune, la lumière disparaît et les fantômes s’effacent momentanément. Cette accalmie permet de changer de position. Elle ne dure jamais longtemps.\n\nAucun survivant n’a été recensé après un contact direct.\n\nNote du personnel :\nL’étude des lunes a nécessité plusieurs stagiaires. Aucun n’est revenu, mais leurs transmissions ont permis de terminer ce rapport.\nL’opération est donc considérée comme un succès.",
+      "translation": "Sujet : LES ENFANTS DE LA LUNE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nLes Enfants de la Lune ont été signalés après la disparition d’une équipe envoyée inspecter une propriété abandonnée. Le matériel a été retrouvé à proximité du bâtiment. Certaines lampes étaient encore allumées.\n\nLes derniers clichés montrent une dizaine de formes spectrales flottant entre les arbres. Leur nom apparaît dans les archives locales, associé à une ancienne disparition d’enfants. Rien ne permet de confirmer que ces fantômes sont les leurs.\n\nLa lune semble dicter leur comportement.\nLa lune violette accompagne généralement les premières manifestations.\nLes fantômes restent invisibles et aucun contact mortel n’a été rapporté durant cette période. Ils continuent cependant de se déplacer.\n\nSous la lune normale, ils errent lentement et poursuivent les personnes qu’ils aperçoivent.\n\nLa lune rouge déclenche une chasse beaucoup plus agressive : les entités retrouvent leurs cibles même lorsqu’elles se cachent.\n\nLa lune verte exige le silence. Les bruits attirent les fantômes, qui fouillent ensuite les environs de leur provenance.\n\nSous la lune ambre, ils poursuivent les personnes en mouvement. Un employé a survécu en restant immobile contre un mur. L’apparition s’est arrêtée devant lui, puis s’est détournée lorsque son collègue a pris la fuite.\n\nLa lune bleue permet de les arrêter en les regardant. Les témoins précisent qu’ils reprennent leur approche dès que l’attention se porte ailleurs.\n\nEntre chaque lune, la lumière disparaît et les fantômes s’effacent momentanément. Cette accalmie permet de changer de position. Elle ne dure jamais longtemps.\n\nAucun survivant n’a été recensé après un contact direct.\n\nNote du personnel :\nL’étude des lunes a nécessité plusieurs stagiaires. Aucun n’est revenu, mais leurs transmissions ont permis de terminer ce rapport.\nL’opération est donc considérée comme un succès.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "62161ec2087ea164447cc5eeca0f14e1e1d5e83c91c5879d07f3692453e3578b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e244b45a5b6866852b9c303b",
+      "french": "Sujet : LES ENFANTS DE LA LUNE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nLes Enfants de la Lune ont été signalés après la disparition d’une équipe envoyée inspecter une propriété abandonnée.\n\nLa lune semble dicter leur comportement.\nLa lune violette accompagne généralement les premières manifestations.\nLes fantômes restent invisibles et aucun contact mortel n’a été rapporté durant cette période. Ils continuent cependant de se déplacer.\n\nSous la lune normale, ils errent lentement et poursuivent les personnes qu’ils aperçoivent.\n\nLa lune rouge déclenche une chasse beaucoup plus agressive : les entités retrouvent leurs cibles même lorsqu’elles se cachent.\n\nLa lune verte exige le silence. Les bruits attirent les fantômes, qui fouillent ensuite les environs de leur provenance.\n\nSous la lune ambre, ils poursuivent les personnes en mouvement. Un employé a survécu en restant immobile contre un mur. L’apparition s’est arrêtée devant lui, puis s’est détournée lorsque son collègue a pris la fuite.\n\nLa lune bleue permet de les arrêter en les regardant. Les témoins précisent qu’ils reprennent leur approche dès que l’attention se porte ailleurs.\n\nEntre chaque lune, la lumière disparaît et les fantômes s’effacent momentanément. Cette accalmie permet de changer de position. Elle ne dure jamais longtemps.\n\nAucun survivant n’a été recensé après un contact direct.\n\nNote du personnel :\nL’étude des lunes a nécessité plusieurs stagiaires. Aucun n’est revenu, mais leurs transmissions ont permis de terminer ce rapport.\nL’opération est donc considérée comme un succès.",
+      "translation": "Sujet : LES ENFANTS DE LA LUNE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nLes Enfants de la Lune ont été signalés après la disparition d’une équipe envoyée inspecter une propriété abandonnée.\n\nLa lune semble dicter leur comportement.\nLa lune violette accompagne généralement les premières manifestations.\nLes fantômes restent invisibles et aucun contact mortel n’a été rapporté durant cette période. Ils continuent cependant de se déplacer.\n\nSous la lune normale, ils errent lentement et poursuivent les personnes qu’ils aperçoivent.\n\nLa lune rouge déclenche une chasse beaucoup plus agressive : les entités retrouvent leurs cibles même lorsqu’elles se cachent.\n\nLa lune verte exige le silence. Les bruits attirent les fantômes, qui fouillent ensuite les environs de leur provenance.\n\nSous la lune ambre, ils poursuivent les personnes en mouvement. Un employé a survécu en restant immobile contre un mur. L’apparition s’est arrêtée devant lui, puis s’est détournée lorsque son collègue a pris la fuite.\n\nLa lune bleue permet de les arrêter en les regardant. Les témoins précisent qu’ils reprennent leur approche dès que l’attention se porte ailleurs.\n\nEntre chaque lune, la lumière disparaît et les fantômes s’effacent momentanément. Cette accalmie permet de changer de position. Elle ne dure jamais longtemps.\n\nAucun survivant n’a été recensé après un contact direct.\n\nNote du personnel :\nL’étude des lunes a nécessité plusieurs stagiaires. Aucun n’est revenu, mais leurs transmissions ont permis de terminer ce rapport.\nL’opération est donc considérée comme un succès.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e244b45a5b6866852b9c303bb50ed2735a5ed828a7b42da75ada7afa64f4ec1e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_bb1383319dbc6736869803c1",
+      "french": "Sujet : LILFY\nOrigine : Ancienne employée de Vestige Corporation\nNiveau de danger : RAVAGER\n\nLilfy était autrefois une employée de Vestige Corporation, affectée aux missions de récupération d'objets de valeur.\n\nMalgré des résultats satisfaisants, son comportement a rapidement soulevé plusieurs inquiétudes. Elle avait notamment développé une fâcheuse tendance à dérober les objets précieux découverts en mission pour les dissimuler dans différents endroits, avant de revenir les récupérer à l'insu de ses collègues.\n\nLilfy manifestait également un besoin excessif d'affection envers le personnel. Ses câlins, en apparence innocents, servaient généralement à subtiliser les objets transportés par ses collègues, les privant ainsi d'une partie de leurs primes.\n\nPlusieurs employés ayant tenté de s'opposer à ses agissements ont mystérieusement disparu à la suite de violentes crises de rage.\n\nAucun corps, aucun organe, ni même le moindre reste humain n'a été retrouvé.\n\nLa direction soupçonne Lilfy de récupérer absolument tout ce qui possède une valeur marchande, y compris les dépouilles de ses anciens collègues. L'hypothèse d'un commerce clandestin avec une société concurrente n'est pas exclue.\n\nMOTIF DE LICENCIEMENT\n\nLa situation est devenue incontrôlable lorsque Lilfy a sorti une arme et menacé de mort plusieurs membres du personnel au cours d'une mission.\n\nFace au danger, Vestige Corporation a pris la décision de l'abandonner sur le site d'intervention.\n\nAucune équipe de récupération n'a été envoyée.\n\nCONSIGNES AU PERSONNEL\n\nÉvitez tout contact physique avec Lilfy, particulièrement les câlins.\n\nNe transportez aucun objet précieux à proximité d'elle.\n\nNe tentez jamais de récupérer un objet qu'elle considère comme sa propriété.\n\nSi Lilfy devient agressive, quittez immédiatement les lieux.\n\nNote de la direction :\n\nVestige Corporation rappelle que les câlins ne constituent pas une méthode de rémunération reconnue par l'entreprise.\n\nTout employé disparaissant avec son matériel sera tenu responsable de la perte de celui-ci.",
+      "translation": "Sujet : LILFY\nOrigine : Ancienne employée de Vestige Corporation\nNiveau de danger : RAVAGER\n\nLilfy était autrefois une employée de Vestige Corporation, affectée aux missions de récupération d'objets de valeur.\n\nMalgré des résultats satisfaisants, son comportement a rapidement soulevé plusieurs inquiétudes. Elle avait notamment développé une fâcheuse tendance à dérober les objets précieux découverts en mission pour les dissimuler dans différents endroits, avant de revenir les récupérer à l'insu de ses collègues.\n\nLilfy manifestait également un besoin excessif d'affection envers le personnel. Ses câlins, en apparence innocents, servaient généralement à subtiliser les objets transportés par ses collègues, les privant ainsi d'une partie de leurs primes.\n\nPlusieurs employés ayant tenté de s'opposer à ses agissements ont mystérieusement disparu à la suite de violentes crises de rage.\n\nAucun corps, aucun organe, ni même le moindre reste humain n'a été retrouvé.\n\nLa direction soupçonne Lilfy de récupérer absolument tout ce qui possède une valeur marchande, y compris les dépouilles de ses anciens collègues. L'hypothèse d'un commerce clandestin avec une société concurrente n'est pas exclue.\n\nMOTIF DE LICENCIEMENT\n\nLa situation est devenue incontrôlable lorsque Lilfy a sorti une arme et menacé de mort plusieurs membres du personnel au cours d'une mission.\n\nFace au danger, Vestige Corporation a pris la décision de l'abandonner sur le site d'intervention.\n\nAucune équipe de récupération n'a été envoyée.\n\nCONSIGNES AU PERSONNEL\n\nÉvitez tout contact physique avec Lilfy, particulièrement les câlins.\n\nNe transportez aucun objet précieux à proximité d'elle.\n\nNe tentez jamais de récupérer un objet qu'elle considère comme sa propriété.\n\nSi Lilfy devient agressive, quittez immédiatement les lieux.\n\nNote de la direction :\n\nVestige Corporation rappelle que les câlins ne constituent pas une méthode de rémunération reconnue par l'entreprise.\n\nTout employé disparaissant avec son matériel sera tenu responsable de la perte de celui-ci.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "bb1383319dbc6736869803c16425c341fc6d812fd72db65edc24c731e731a7f2",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_baeade3e76019fcb332dadb6",
+      "french": "RÉGLAGES AUDIO",
+      "translation": "RÉGLAGES AUDIO",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "baeade3e76019fcb332dadb6d35916d87976b578ccf817dfc9db52d04e984280",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f40a645c6d9adcf9b387921a",
+      "french": "MUSIQUE",
+      "translation": "MUSIQUE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f40a645c6d9adcf9b387921ac9bed2b0d515b6551587f144f6d9d13f2884176d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ad7ce1a91b618864d78d357c",
+      "french": "EFFETS",
+      "translation": "EFFETS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ad7ce1a91b618864d78d357cfe8a4c953dd9a8c11ed73b69c306dc040148148f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9c457e1e77a7c40c6fe370c7",
+      "french": "INTERFACE",
+      "translation": "INTERFACE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9c457e1e77a7c40c6fe370c7f488b1217505c81b7178b907d5fb45a982de7f79",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d6d611e0afd4d670317e9e40",
+      "french": "REMETTRE À 100 %",
+      "translation": "REMETTRE À 100 %",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d6d611e0afd4d670317e9e409ceecbd6edcd6acbc6ed7556f23ba83a7c8580f8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f09e8c2843e958ae886afeb4",
+      "french": "RETOUR AU MENU",
+      "translation": "RETOUR AU MENU",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f09e8c2843e958ae886afeb408f7c11e90ca90c6e91becd48db1de5a51569a25",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6f3180d3ea5cf318e7c01d5e",
+      "french": "Ces réglages personnels sont sauvegardés pour votre prochaine visite.",
+      "translation": "Ces réglages personnels sont sauvegardés pour votre prochaine visite.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "6f3180d3ea5cf318e7c01d5eb2005cca3604cd0f1bab4c49121e5a82dfd80486",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_cfb6d7ac82ea64df3ad6c65c",
+      "french": "Value: 100\nPrime: Crédit+50 | XP+5",
+      "translation": "Value: 100\nPrime: Crédit+50 | XP+5",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "cfb6d7ac82ea64df3ad6c65c9957863e42a13adc94190d438eb57434dc0dd891",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c11e579ad957554f648ab5db",
+      "french": "Value: 200\nPrime: Crédit+100 | XP+10",
+      "translation": "Value: 200\nPrime: Crédit+100 | XP+10",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c11e579ad957554f648ab5dbb61d48b946abb3db30d8e24556323bcfaea83260",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4f60f304dc17f2f07452c81a",
+      "french": "Value: 6\nPrime: Crédit+3 | XP+2",
+      "translation": "Value: 6\nPrime: Crédit+3 | XP+2",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4f60f304dc17f2f07452c81afb2f8f5a4a6df4bbeb79b0ae9e69d909bf37ac24",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_972d300a8baa1f060e755be7",
+      "french": "Value: 1000\nPrime: Crédit+500 | XP+20",
+      "translation": "Value: 1000\nPrime: Crédit+500 | XP+20",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "972d300a8baa1f060e755be7a63e2ea4adf0d21626a84ef8ebc5e077fb26e889",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3832324aada76869496c3593",
+      "french": "Value: 50\nPrime: Crédit+25 | XP+10",
+      "translation": "Value: 50\nPrime: Crédit+25 | XP+10",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "3832324aada76869496c35935268bc9ad3ae9022497b38dae1bc65b43bb28620",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_de35cd8632b5cffe425a88c6",
+      "french": "Value: 300\nPrime: Crédit+150 | XP+5",
+      "translation": "Value: 300\nPrime: Crédit+150 | XP+5",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "de35cd8632b5cffe425a88c611fa29bbac7133778ba5ce59b0a2ac534311b287",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_283ab000fcd3b18bc723f006",
+      "french": "VESTIGE CORPORATION",
+      "translation": "VESTIGE CORPORATION",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "283ab000fcd3b18bc723f006f6396e73ee499c5a638e00e1e9035572d9ae92b8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a30bc5f94489aa62aba0e387",
+      "french": "LAST ENTRY",
+      "translation": "LAST ENTRY",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a30bc5f94489aa62aba0e387ef4a1b9fc12ab33c66a940b1f599266a3139577d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_130f91b54c416c97e89a820d",
+      "french": "DOCUMENTS À CONSULTER AVANT VOTRE MISSION",
+      "translation": "DOCUMENTS À CONSULTER AVANT VOTRE MISSION",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "130f91b54c416c97e89a820db65c0f83b1481c90a6e74ed2d07475ee6320381d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ea21754858e353b15debebd9",
+      "french": "TUTORIEL",
+      "translation": "TUTORIEL",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ea21754858e353b15debebd96851c28ce7a3e4e9ffaecfb06cf1ac5da6b377cb",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_87e3afe6fc98fa9ed9a10b29",
+      "french": "CRÉDITS",
+      "translation": "CRÉDITS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "87e3afe6fc98fa9ed9a10b29b0ba7be341163337c8235651f801892e26fcae15",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9885f7aff9af50a28fa61cdc",
+      "french": "Guide des employés et créateurs des ressources",
+      "translation": "Guide des employés et créateurs des ressources",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9885f7aff9af50a28fa61cdcd2634a74b6aeba86c0972ecd9d699edae4683b10",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c0116553abc90a88709364ff",
+      "french": "RÉGLAGES",
+      "translation": "RÉGLAGES",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c0116553abc90a88709364ff9462c9ea610f30e6b8c430fb7360ca20f1b16782",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ad5ae5765c27be27b55a0876",
+      "french": "PRÉCÉDENT",
+      "translation": "PRÉCÉDENT",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ad5ae5765c27be27b55a087661723fb3e24e2b52c90bc53c9584ec07c47ba3d3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_63276aa7392136db4f776309",
+      "french": "SUIVANT",
+      "translation": "SUIVANT",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "63276aa7392136db4f776309b670a574a47a742c642b96b262b39afac87015dd",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1987f47db02b19a4bfef219f",
+      "french": "01 — BIENVENUE CHEZ VESTIGE",
+      "translation": "01 — BIENVENUE CHEZ VESTIGE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1987f47db02b19a4bfef219ff098552b8e9c28fa5036181d3628339267f5ebf0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_603e2c532ca7a057c2af038d",
+      "french": "Vestige Corporation vous recrute pour récupérer des biens dans des lieux dangereux.\n\nExplorez, rapportez le butin au camion et atteignez le quota de crédits de la mission. Revenez vivant avec votre équipe avant la fin du temps imparti.",
+      "translation": "Vestige Corporation vous recrute pour récupérer des biens dans des lieux dangereux.\n\nExplorez, rapportez le butin au camion et atteignez le quota de crédits de la mission. Revenez vivant avec votre équipe avant la fin du temps imparti.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "603e2c532ca7a057c2af038d48c8263add90b666a36964792c40c028fd04e800",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_17e64105fca360643b5fcc76",
+      "french": "NOTE DE LA DIRECTION : Votre contrat ne garantit pas votre retour.",
+      "translation": "NOTE DE LA DIRECTION : Votre contrat ne garantit pas votre retour.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "17e64105fca360643b5fcc76adb597f80f52e878aa36e3c359e395178e040870",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5c623ddad1c3ef8e4cb968ee",
+      "french": "02 — PRÉPAREZ VOTRE ÉQUIPE",
+      "translation": "02 — PRÉPAREZ VOTRE ÉQUIPE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "5c623ddad1c3ef8e4cb968eea7c9a4cf2a16c250de4e35febace0d2765987d08",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_313f992720d3d78880c38eea",
+      "french": "Au lobby, préparez vos compétences et choisissez un objet au shop. Il est payé au début du gameplay.\n\nMaintenez la commande de saut 1,5 seconde pour changer votre état prêt. Tous prêts : la mission commence.",
+      "translation": "Au lobby, préparez vos compétences et choisissez un objet au shop. Il est payé au début du gameplay.\n\nMaintenez la commande de saut 1,5 seconde pour changer votre état prêt. Tous prêts : la mission commence.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "313f992720d3d78880c38eea04c2f2f26363df61b88ba23e32f4e8f9c1eccb84",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_12f1e27caf273302a30c162d",
+      "french": "NOTE DE LA DIRECTION : Une équipe prête est une équipe rentable.",
+      "translation": "NOTE DE LA DIRECTION : Une équipe prête est une équipe rentable.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "12f1e27caf273302a30c162d04eee8c5699a7c26f063dceb25b9362c0001c507",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_78820367933f5c4811be25cf",
+      "french": "03 — RÉCUPÉREZ LES OBJETS",
+      "translation": "03 — RÉCUPÉREZ LES OBJETS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "78820367933f5c4811be25cf42c5a85a489d99d6054b268d05a0b440845de231",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9153c73c52e24d1487fc1177",
+      "french": "Chaque objet a une valeur et un poids. Les objets lourds ralentissent vos déplacements ; les poids portés se cumulent.\n\nLe but est d'atteindre une valeur totale. Consultez le quota et le temps restant sur l'affichage du camion.",
+      "translation": "Chaque objet a une valeur et un poids. Les objets lourds ralentissent vos déplacements ; les poids portés se cumulent.\n\nLe but est d'atteindre une valeur totale. Consultez le quota et le temps restant sur l'affichage du camion.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9153c73c52e24d1487fc117798a9582c18599676fff5c0e69b3f678d0f9c614a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ca50a45bd60e668c003ba385",
+      "french": "NOTE DE LA DIRECTION : Plus de personnel. Plus de résultats. Même salaire.",
+      "translation": "NOTE DE LA DIRECTION : Plus de personnel. Plus de résultats. Même salaire.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ca50a45bd60e668c003ba385038568ad8428250eedd1346a1fe6c8cdfeeddc51",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c43d1eb21226678897654547",
+      "french": "04 — CHARGEZ LE CAMION",
+      "translation": "04 — CHARGEZ LE CAMION",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c43d1eb212266788976545472050c0da4825551fcbf09849430d1e6f0af80971",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_53c14ddcd0fd09ca350354a1",
+      "french": "Déposez les objets de mission dans la zone de chargement du camion. Leur valeur compte pour le quota commun.\n\nLe camion affiche la valeur déposée et le quota à atteindre. Le dépôt peut aussi donner un bonus personnel, versé si vous terminez la mission vivant.",
+      "translation": "Déposez les objets de mission dans la zone de chargement du camion. Leur valeur compte pour le quota commun.\n\nLe camion affiche la valeur déposée et le quota à atteindre. Le dépôt peut aussi donner un bonus personnel, versé si vous terminez la mission vivant.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "53c14ddcd0fd09ca350354a18bdcf5b1a97451b71927d77c7ad3b66e6a43a03b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_94932cc32018f69b96b9c0c2",
+      "french": "NOTE DE LA DIRECTION : Le camion transporte des biens. Évitez de devenir un colis.",
+      "translation": "NOTE DE LA DIRECTION : Le camion transporte des biens. Évitez de devenir un colis.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "94932cc32018f69b96b9c0c23d80900e8881c7142f2fdbc993f0d264f5d8ce36",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e5cadd2ecf9949a669dfb23a",
+      "french": "05 — VOTRE ÉQUIPEMENT",
+      "translation": "05 — VOTRE ÉQUIPEMENT",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e5cadd2ecf9949a669dfb23af90989ad95de15dfdbe3d175b3e4008ce1ef9579",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9bb2602ddd520917af676da1",
+      "french": "Lampe gratuite : F sur PC, gâchette droite en VR.\n\nObjet du shop : commande de saut pour sortir ou ranger l'aperçu, puis prenez-le. Un seul exemplaire par manche.\n\nJamais pris, ou gardé en main sans l'utiliser ni le lâcher : remboursé à 100 %. Utilisé ou lâché, même repris ensuite : payé.",
+      "translation": "Lampe gratuite : F sur PC, gâchette droite en VR.\n\nObjet du shop : commande de saut pour sortir ou ranger l'aperçu, puis prenez-le. Un seul exemplaire par manche.\n\nJamais pris, ou gardé en main sans l'utiliser ni le lâcher : remboursé à 100 %. Utilisé ou lâché, même repris ensuite : payé.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "9bb2602ddd520917af676da1d70b3dc2bb5e244ef13ea74f9caccc6b4836e5a8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_30ad0cf59a1ee110ccfc0e55",
+      "french": "NOTE DE LA DIRECTION : La lampe est offerte. La générosité s'arrête là.",
+      "translation": "NOTE DE LA DIRECTION : La lampe est offerte. La générosité s'arrête là.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "30ad0cf59a1ee110ccfc0e55794e9e11c0e7f16596a1ee2042b4ee3145e417d0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_106c8b9c16daa75d6913fb36",
+      "french": "06 — SURVIVEZ AUX SLASHERS",
+      "translation": "06 — SURVIVEZ AUX SLASHERS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "106c8b9c16daa75d6913fb367ea07f69ec48966d984fbd30de10aae8ce2a442a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8092748c88d6b6cb1ded3ab4",
+      "french": "Chaque Slasher a ses propres règles. Observez ses réactions et coordonnez-vous ; le bruit peut vous trahir.",
+      "translation": "Chaque Slasher a ses propres règles. Observez ses réactions et coordonnez-vous ; le bruit peut vous trahir.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8092748c88d6b6cb1ded3ab4c118e896785e6d8aed259da3e49fa9cb3550a0eb",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_245322e1ead3e63da9200475",
+      "french": "NOTE DE LA DIRECTION : Les dégâts ne constituent pas une pause autorisée.",
+      "translation": "NOTE DE LA DIRECTION : Les dégâts ne constituent pas une pause autorisée.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "245322e1ead3e63da92004753a59274cecfe0b79a09b34e271412a9a1018198d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ac8f8dd12ff0bb02ea4a9398",
+      "french": "07 — EN CAS DE DÉCÈS",
+      "translation": "07 — EN CAS DE DÉCÈS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ac8f8dd12ff0bb02ea4a93980f5675b3628f5abc7fd3da7173254635d69a87f3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_88cd71c9dddd3e2537c35c0b",
+      "french": "Après la séquence de mort, vous revenez au lobby comme spectateur. Si plus aucun joueur ne peut poursuivre la mission, elle se termine.\n\nUn joueur tué par un Slasher peut laisser un cœur récupérable à vendre au camion.\n\nUn objet du shop lâché à la mort reste payé ; les survivants peuvent le récupérer.",
+      "translation": "Après la séquence de mort, vous revenez au lobby comme spectateur. Si plus aucun joueur ne peut poursuivre la mission, elle se termine.\n\nUn joueur tué par un Slasher peut laisser un cœur récupérable à vendre au camion.\n\nUn objet du shop lâché à la mort reste payé ; les survivants peuvent le récupérer.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "88cd71c9dddd3e2537c35c0b7527cdb80349d4b7dfe76b16c8465a9356de3be1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_fff4a0cead05014569b01a4c",
+      "french": "NOTE DE LA DIRECTION : Même absent, vous pouvez encore rapporter quelque chose.",
+      "translation": "NOTE DE LA DIRECTION : Même absent, vous pouvez encore rapporter quelque chose.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "fff4a0cead05014569b01a4ceec522af608b1287d35cdda195fa4a00d2f027fd",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4e72952037142493158c5da2",
+      "french": "08 — RENTREZ ET PROGRESSEZ",
+      "translation": "08 — RENTREZ ET PROGRESSEZ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4e72952037142493158c5da2e16e076b676981ee808324e9b352cfe394a762e4",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_de94fccadff4aaa4148b5c94",
+      "french": "Quota atteint : tous les survivants encore en mission doivent entrer dans la zone d'extraction du camion. Restez à bord pendant le départ.\n\nLa valeur du butin est partagée entre les survivants ; les bonus personnels s'ajoutent selon vos actions.\n\nAu lobby, consultez vos gains, vos compétences et votre prochain achat.",
+      "translation": "Quota atteint : tous les survivants encore en mission doivent entrer dans la zone d'extraction du camion. Restez à bord pendant le départ.\n\nLa valeur du butin est partagée entre les survivants ; les bonus personnels s'ajoutent selon vos actions.\n\nAu lobby, consultez vos gains, vos compétences et votre prochain achat.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "de94fccadff4aaa4148b5c94b87023a469b2ab8ac92b2642d12cae7bf34c0df0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_26dfdbc27c629449a6ce22ac",
+      "french": "NOTE DE LA DIRECTION : Merci de revenir en état de travailler.",
+      "translation": "NOTE DE LA DIRECTION : Merci de revenir en état de travailler.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "26dfdbc27c629449a6ce22ac7a543da5d46258048ad5c8a296fbd695a8ca2b4c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ab8b3918db33aaf7281b9912",
+      "french": "CRÉDITS — CRÉATEURS DES RESSOURCES",
+      "translation": "CRÉDITS — CRÉATEURS DES RESSOURCES",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ab8b3918db33aaf7281b99123592c2b6c1f2ca31fd5f5f71eb00627b2c0f7441",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8ebeae02d93ff5626671d066",
+      "french": "LAST ENTRY\nCréation du jeu : Shokomaki\nToutes les ressources présentes dans le jeu sont modifiées\n\nSlasher:\n\n==================\nFree-Huggy: Sayge478\nDoublage: VoiceMod Shokomaki\nMusique: Tunnel Of Games\r | Feycee69\n==================\nLilfy: EkaSilicon_Es / エカケイソ (Modèle original disponible sur Booth)\nDoublage: MissBlake\nMusique: Bassloom Phantom Skid \n==================\nChildren of the Moon: SR Studios Kerala\n==================\nDeadSpine: Panchenko Lyudmila\n==================\nCocatrice: Arloc\n==================\nThe Unwatched: The Devouring - Mannequin by Lakuza licensed under CC BY-NC 4.0\n==================\nCOMING...\n",
+      "translation": "LAST ENTRY\nCréation du jeu : Shokomaki\nToutes les ressources présentes dans le jeu sont modifiées\n\nSlasher:\n\n==================\nFree-Huggy: Sayge478\nDoublage: VoiceMod Shokomaki\nMusique: Tunnel Of Games\r | Feycee69\n==================\nLilfy: EkaSilicon_Es / エカケイソ (Modèle original disponible sur Booth)\nDoublage: MissBlake\nMusique: Bassloom Phantom Skid \n==================\nChildren of the Moon: SR Studios Kerala\n==================\nDeadSpine: Panchenko Lyudmila\n==================\nCocatrice: Arloc\n==================\nThe Unwatched: The Devouring - Mannequin by Lakuza licensed under CC BY-NC 4.0\n==================\nCOMING...\n",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8ebeae02d93ff5626671d06645a25f94dc17c620b99a0f73e7aa66c89d072542",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ae9cc1d6de28e3b99db9a669",
+      "french": "Faites défiler la liste en la faisant glisser ou avec la molette.",
+      "translation": "Faites défiler la liste en la faisant glisser ou avec la molette.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ae9cc1d6de28e3b99db9a66930d389a488ba8b23f02f50e8249176fb7ad8623c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3316a6f5dd905bd89d17deee",
+      "french": "Origine : Manoir non répertorié\nNiveau de danger: \n\nLors d'une mission de récupération, une équipe de Vestige Corporation découvrit un ancien manoir qui ne figurait sur aucune carte.\n\nParmi les objets présents se trouvaient plusieurs mannequins articulés en bois. Malgré les avertissements retrouvés dans les lieux, les employés décidèrent d'en rapporter un exemplaire pour étude.\n\nQuelques jours après son arrivée, le mannequin disparut de sa salle de stockage. Il fut retrouvé à l'extérieur du bâtiment, immobile, entouré des corps de plusieurs stagiaires.\n\nL'objet fut replacé dans une pièce verrouillée, sous surveillance permanente. Le lendemain matin, la pièce était de nouveau vide.\n\nDepuis cet incident, plusieurs mannequins identiques ont été aperçus dans les installations de la société. Leur provenance demeure inconnue.\n\nNote interne : La direction rappelle qu'aucun élément ne permet d'établir un lien entre ces événements et le personnel décédé.",
+      "translation": "Origine : Manoir non répertorié\nNiveau de danger: \n\nLors d'une mission de récupération, une équipe de Vestige Corporation découvrit un ancien manoir qui ne figurait sur aucune carte.\n\nParmi les objets présents se trouvaient plusieurs mannequins articulés en bois. Malgré les avertissements retrouvés dans les lieux, les employés décidèrent d'en rapporter un exemplaire pour étude.\n\nQuelques jours après son arrivée, le mannequin disparut de sa salle de stockage. Il fut retrouvé à l'extérieur du bâtiment, immobile, entouré des corps de plusieurs stagiaires.\n\nL'objet fut replacé dans une pièce verrouillée, sous surveillance permanente. Le lendemain matin, la pièce était de nouveau vide.\n\nDepuis cet incident, plusieurs mannequins identiques ont été aperçus dans les installations de la société. Leur provenance demeure inconnue.\n\nNote interne : La direction rappelle qu'aucun élément ne permet d'établir un lien entre ces événements et le personnel décédé.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "3316a6f5dd905bd89d17deeeefa8c9529b836b6ab9515c7de0c7a7d82d4a929b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4a1ea7c347c281cd52fd1274",
+      "french": "Sujet:  The Unwatched\nOrigine : Manoir non répertorié\nNiveau de danger: DEVOURER\n\nLors d'une mission de récupération, une équipe de Vestige Corporation découvrit un ancien manoir qui ne figurait sur aucune carte.\n\nParmi les objets présents se trouvaient plusieurs mannequins articulés en bois. Malgré les avertissements retrouvés dans les lieux, les employés décidèrent d'en rapporter un exemplaire pour étude.\n\nQuelques jours après son arrivée, le mannequin disparut de sa salle de stockage. Il fut retrouvé à l'extérieur du bâtiment, immobile, entouré des corps de plusieurs stagiaires.\n\nL'objet fut replacé dans une pièce verrouillée, sous surveillance permanente. Le lendemain matin, la pièce était de nouveau vide.\n\nDepuis cet incident, plusieurs mannequins identiques ont été aperçus dans les installations de la société. Leur provenance demeure inconnue.\n\nNote interne : La direction rappelle qu'aucun élément ne permet d'établir un lien entre ces événements et le personnel décédé.",
+      "translation": "Sujet:  The Unwatched\nOrigine : Manoir non répertorié\nNiveau de danger: DEVOURER\n\nLors d'une mission de récupération, une équipe de Vestige Corporation découvrit un ancien manoir qui ne figurait sur aucune carte.\n\nParmi les objets présents se trouvaient plusieurs mannequins articulés en bois. Malgré les avertissements retrouvés dans les lieux, les employés décidèrent d'en rapporter un exemplaire pour étude.\n\nQuelques jours après son arrivée, le mannequin disparut de sa salle de stockage. Il fut retrouvé à l'extérieur du bâtiment, immobile, entouré des corps de plusieurs stagiaires.\n\nL'objet fut replacé dans une pièce verrouillée, sous surveillance permanente. Le lendemain matin, la pièce était de nouveau vide.\n\nDepuis cet incident, plusieurs mannequins identiques ont été aperçus dans les installations de la société. Leur provenance demeure inconnue.\n\nNote interne : La direction rappelle qu'aucun élément ne permet d'établir un lien entre ces événements et le personnel décédé.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4a1ea7c347c281cd52fd1274ba110d77109d1270c04a10f1e017a32c667f85e7",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_7874abfb6696d9601c0fcd38",
+      "french": "Value: 30\nPrime: Crédit+5 | XP+5",
+      "translation": "Value: 30\nPrime: Crédit+5 | XP+5",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "7874abfb6696d9601c0fcd381e03137b0e57677cb57c45839ff193f4c3ea8184",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2fdf315e1cdf67f2b389c555",
+      "french": "Développée clandestinement par une ancienne employée de Vestige Corporation, cette substance provoque une poussée d'adrénaline artificielle, permettant à son consommateur de repousser temporairement ses limites physiques.\n\nCependant, son utilisation n'est pas sans conséquences. Les organismes non habitués au produit peuvent subir une dégradation progressive de leurs fonctions vitales, pouvant entraîner la mort.\n\nSeuls les employés ayant développé une résistance suffisante semblent capables d'en supporter les séquelles.",
+      "translation": "Développée clandestinement par une ancienne employée de Vestige Corporation, cette substance provoque une poussée d'adrénaline artificielle, permettant à son consommateur de repousser temporairement ses limites physiques.\n\nCependant, son utilisation n'est pas sans conséquences. Les organismes non habitués au produit peuvent subir une dégradation progressive de leurs fonctions vitales, pouvant entraîner la mort.\n\nSeuls les employés ayant développé une résistance suffisante semblent capables d'en supporter les séquelles.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2fdf315e1cdf67f2b389c555cd9785566d1095bc6444bcd356a80005370e777f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4a44dc15364204a80fe80e90",
+      "french": "10",
+      "translation": "10",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4a44dc15364204a80fe80e9039455cc1608281820fe2b24f1e5233ade6af1dd5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2abaca4911e68fa9bfbf3482",
+      "french": "120",
+      "translation": "120",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2abaca4911e68fa9bfbf3482ee797fd5b9045b841fdff7253557c5fe15de6477",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_40e31daaca2fc4457ff9382f",
+      "french": "Xylazine",
+      "translation": "Xylazine",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "40e31daaca2fc4457ff9382f09705f6b652c7f1b1ab0b4dfa992295ebffdac5d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ee8901a4296253eb7455e862",
+      "french": "SAUT / GACHETTE : VALIDER",
+      "translation": "SAUT / GACHETTE : VALIDER",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "ee8901a4296253eb7455e86262b66825a779c7ec241a365e550dc8f4f6f5a5e2",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4e07408562bedb8b60ce05c1",
+      "french": "3",
+      "translation": "3",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "4e07408562bedb8b60ce05c1decfe3ad16b72230967de01f640b7e4729b49fce",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f2f0efb32687daba532bada9",
+      "french": "Visez la zone verte - Se deplacer annule",
+      "translation": "Visez la zone verte - Se deplacer annule",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f2f0efb32687daba532bada9844beee5a94b42b0420b1eaf92e8fa8982a73ef3",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_eacd1eae9bbe6bcc5862e474",
+      "french": "Blackbox",
+      "translation": "Blackbox",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "eacd1eae9bbe6bcc5862e474308e33d7d8635fa4beaa491e8df1627ac603f84e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_93b190b8d8b68b09510b87a6",
+      "french": "EN ATTENTE",
+      "translation": "EN ATTENTE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "93b190b8d8b68b09510b87a6485232ca6912cf4e3375eb0b8ed548c783b873c2",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a6868b332715dc0ecd734f08",
+      "french": "CHARGE DE BRECHE - CALIBRAGE",
+      "translation": "CHARGE DE BRECHE - CALIBRAGE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a6868b332715dc0ecd734f082653c359bd5c33cf4110c32304e201735192adb9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e1ce2aededfb9f56f6e62d35",
+      "french": "Breaker",
+      "translation": "Breaker",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e1ce2aededfb9f56f6e62d3589a1a3ff2554efe81477517d3f07bc5f83cc14f2",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8c54187d131cad9a3dcc5ced",
+      "french": "Outils",
+      "translation": "Outils",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8c54187d131cad9a3dcc5ced02c19aeaf713ba8fd2329fab8072f33d70802f37",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_897a4464ea1322e8eaf66df5",
+      "french": "Un analgésique opioïde de synthèse extrêmement puissant jusqu'à 50 à 100 fois plus puissant que la morphine\nVous recevrez moins de dégats pendant un moment.\n/!\\ Vendu en toute illégalité par la société  /!\\\n[-50% de dégats 20 secondes]",
+      "translation": "Un analgésique opioïde de synthèse extrêmement puissant jusqu'à 50 à 100 fois plus puissant que la morphine\nVous recevrez moins de dégats pendant un moment.\n/!\\ Vendu en toute illégalité par la société  /!\\\n[-50% de dégats 20 secondes]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "897a4464ea1322e8eaf66df53f32b5b4182d10e3504073bd1bee8cfb0e5a45e1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a587d112204f13139dcd6da5",
+      "french": "Faute de budget, Vestige Corporation a confié la conception de cet appareil à un stagiaire disposant de trois charges explosives et de deux vieux téléphones.\n\nLe stagiaire n'est plus disponible pour répondre aux questions.",
+      "translation": "Faute de budget, Vestige Corporation a confié la conception de cet appareil à un stagiaire disposant de trois charges explosives et de deux vieux téléphones.\n\nLe stagiaire n'est plus disponible pour répondre aux questions.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "a587d112204f13139dcd6da5b5762dd9e4b3871829f1369e0f377728d0a45e35",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_81b76f76853e27256240e36e",
+      "french": "Children of the Moon",
+      "translation": "Children of the Moon",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "81b76f76853e27256240e36e5e3167356c5fc7c75a0ce88b0561da5e22344769",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8a65e0255a96b48b888af0dd",
+      "french": " Lilfy",
+      "translation": " Lilfy",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8a65e0255a96b48b888af0dd52d5b0f190f649a33835f574af825d8a6164f344",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c25366b1199f5ea1b0a3c2dc",
+      "french": "The Unwatched",
+      "translation": "The Unwatched",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "c25366b1199f5ea1b0a3c2dc622b02af696d3a225805f695279ed9df456e8fe6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_dcadb543b18032aafcee8956",
+      "french": "Origine : Manoir non répertorié\nNiveau de danger: DEVOURER\n\nLors d'une mission de récupération, une équipe de Vestige Corporation découvrit un ancien manoir qui ne figurait sur aucune carte.\n\nParmi les objets présents se trouvaient plusieurs mannequins articulés en bois. Malgré les avertissements retrouvés dans les lieux, les employés décidèrent d'en rapporter un exemplaire pour étude.\n\nQuelques jours après son arrivée, le mannequin disparut de sa salle de stockage. Il fut retrouvé à l'extérieur du bâtiment, immobile, entouré des corps de plusieurs stagiaires.\n\nL'objet fut replacé dans une pièce verrouillée, sous surveillance permanente. Le lendemain matin, la pièce était de nouveau vide.\n\nDepuis cet incident, plusieurs mannequins identiques ont été aperçus dans les installations de la société. Leur provenance demeure inconnue.\n\nNote interne : La direction rappelle qu'aucun élément ne permet d'établir un lien entre ces événements et le personnel décédé.",
+      "translation": "Origine : Manoir non répertorié\nNiveau de danger: DEVOURER\n\nLors d'une mission de récupération, une équipe de Vestige Corporation découvrit un ancien manoir qui ne figurait sur aucune carte.\n\nParmi les objets présents se trouvaient plusieurs mannequins articulés en bois. Malgré les avertissements retrouvés dans les lieux, les employés décidèrent d'en rapporter un exemplaire pour étude.\n\nQuelques jours après son arrivée, le mannequin disparut de sa salle de stockage. Il fut retrouvé à l'extérieur du bâtiment, immobile, entouré des corps de plusieurs stagiaires.\n\nL'objet fut replacé dans une pièce verrouillée, sous surveillance permanente. Le lendemain matin, la pièce était de nouveau vide.\n\nDepuis cet incident, plusieurs mannequins identiques ont été aperçus dans les installations de la société. Leur provenance demeure inconnue.\n\nNote interne : La direction rappelle qu'aucun élément ne permet d'établir un lien entre ces événements et le personnel décédé.",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "dcadb543b18032aafcee8956fd2ae4a9598749141335a743ac56ed59003c81f9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f7515d0f00fee0cee9dacc28",
+      "french": "Creek Academy",
+      "translation": "Creek Academy",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f7515d0f00fee0cee9dacc28507ffe640d77632b7a339091f85405d6ea7ab6ae",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e69cee0330b0818194bed47c",
+      "french": "SERIE DE VICTOIRES",
+      "translation": "SERIE DE VICTOIRES",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e69cee0330b0818194bed47c1832da3f31c30eacd3977487e95c7f5c3533a770",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_89af9b7e719bee21b2a3532d",
+      "french": "victoires consecutives",
+      "translation": "victoires consecutives",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "89af9b7e719bee21b2a3532d0f91e12a226927b2b494d01ee1d6541c0b73cb5f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6146bb170360be171abf3666",
+      "french": "PARTIE EN COURS",
+      "translation": "PARTIE EN COURS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "6146bb170360be171abf366682179d27682684913d6b983306b3495b1c3d1dfb",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2a12de3f922319b3f069a432",
+      "french": "PROCHAINE PARTIE",
+      "translation": "PROCHAINE PARTIE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "2a12de3f922319b3f069a43245561808de594a0cd72f96e070e6143d1985c0e9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1d6987bbfc4d9a7f9ae751a2",
+      "french": "OBJETS SUPPLEMENTAIRES",
+      "translation": "OBJETS SUPPLEMENTAIRES",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "1d6987bbfc4d9a7f9ae751a2bb4a6defef044dbe2b1ad25df69c97f29c8da2ec",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_77a7571dd4086c3e0da281c3",
+      "french": "BONUS DE VICTOIRE",
+      "translation": "BONUS DE VICTOIRE",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "77a7571dd4086c3e0da281c37c624235bcdcf671e5cb0e11cf2e82758ea8f2da",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_016f7bed66ffc7d464bb4a98",
+      "french": "Vie : ",
+      "translation": "Vie : ",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "016f7bed66ffc7d464bb4a98eb3b1a656f3ff7c5e81dfda264eeef92f3a9865a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_5c56126d30736c3238f164df",
+      "french": "Maintenez SAUT pour être prêt.",
+      "translation": "Maintenez SAUT pour être prêt.",
+      "context": "ReadyGameManager.texteInstructionReady",
+      "status": "source",
+      "sourceHash": "5c56126d30736c3238f164dfd3a529a40a94ac7545b1048f1c37f961d2120e76",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f04144b30090b87cbd5b79ff",
+      "french": "LAST ENTRY\nCréation du jeu : Shokomaki\nToutes les ressources présentes dans le jeu sont modifiées\n\nSlasher:\n\n==================\nFree-Huggy: Sayge478\nDoublage: VoiceMod Shokomaki\nMusique: Tunnel Of Games\r | Feycee69\n==================\nLilfy: EkaSilicon_Es / エカケイソ (Modèle original disponible sur Booth)\nDoublage: MissBlake\nMusique: Bassloom Phantom Skid \n==================\nChildren of the Moon: SR Studios Kerala\n==================\nDeadSpine: Panchenko Lyudmila\n==================\nCocatrice: Arloc\n==================\n\nMusiques:\n",
+      "translation": "LAST ENTRY\nCréation du jeu : Shokomaki\nToutes les ressources présentes dans le jeu sont modifiées\n\nSlasher:\n\n==================\nFree-Huggy: Sayge478\nDoublage: VoiceMod Shokomaki\nMusique: Tunnel Of Games\r | Feycee69\n==================\nLilfy: EkaSilicon_Es / エカケイソ (Modèle original disponible sur Booth)\nDoublage: MissBlake\nMusique: Bassloom Phantom Skid \n==================\nChildren of the Moon: SR Studios Kerala\n==================\nDeadSpine: Panchenko Lyudmila\n==================\nCocatrice: Arloc\n==================\n\nMusiques:\n",
+      "context": "InformationMenuManager.panelSources",
+      "status": "source",
+      "sourceHash": "f04144b30090b87cbd5b79ff3b356acecacd7722156eb031c4ab3e08a2d6b94d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_43cc46124b53da43acfe98bc",
+      "french": "AVERTISSEMENT",
+      "translation": "AVERTISSEMENT",
+      "context": "AccueilJoueurFR.titreFR",
+      "status": "source",
+      "sourceHash": "43cc46124b53da43acfe98bc414ac545fc3fe134315ed357c4b999fa142e5533",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d86c605055b33df4a60c5a11",
+      "french": "Cette expérience contient des jump scares, des sons forts et des lumières clignotantes.\nElle est déconseillée aux personnes souffrant de troubles cardiaques ou de sensibilité aux flash lumineux.",
+      "translation": "Cette expérience contient des jump scares, des sons forts et des lumières clignotantes.\nElle est déconseillée aux personnes souffrant de troubles cardiaques ou de sensibilité aux flash lumineux.",
+      "context": "AccueilJoueurFR.corpsFR",
+      "status": "source",
+      "sourceHash": "d86c605055b33df4a60c5a11676dd4a23df1e9953508acdbfca280ab385cc4e8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_699933e1f2794cf081b483fd",
+      "french": "Stagiaire",
+      "translation": "Stagiaire",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "699933e1f2794cf081b483fdde5711b0bd137577fb078b409b4eb936f916a771",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6a60387e44a365e97643dc14",
+      "french": "Employé",
+      "translation": "Employé",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "6a60387e44a365e97643dc14e9a7b9b35cba9445367c20eb5bcf0e7bf30b0eee",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9bf68d5c61002d9a464d10d0",
+      "french": "Collecteur",
+      "translation": "Collecteur",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "9bf68d5c61002d9a464d10d08219ce399cfdb12993eda3cf77b77ce0ad6aa466",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3cd1faea776396757ca687ce",
+      "french": "Agent de terrain",
+      "translation": "Agent de terrain",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "3cd1faea776396757ca687ce0bf763e7c97de1f60a44e5c725e843b8ca6800ca",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c4991dad58dca598ae249036",
+      "french": "Agent confirmé",
+      "translation": "Agent confirmé",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "c4991dad58dca598ae24903626e5ec6f3cf67661e489e0adce1afd582dd6901b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ad885244b73e10673ea9e46b",
+      "french": "Superviseur",
+      "translation": "Superviseur",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "ad885244b73e10673ea9e46b5194b52541ccbbc28c535aff2972f3a780127578",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1d2df48253de03c485de31ed",
+      "french": "Chef de secteur",
+      "translation": "Chef de secteur",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "1d2df48253de03c485de31edcaefd8c6330e1b36737af752af38ec2da0f919da",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_6403fbb6560d78437650a855",
+      "french": "Directeur de terrain",
+      "translation": "Directeur de terrain",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "6403fbb6560d78437650a8555d2d43665c855148bc7c317705791e4fbd429cae",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_23c236dd3d8fffde00f13c9b",
+      "french": "Cadre Vestige",
+      "translation": "Cadre Vestige",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "23c236dd3d8fffde00f13c9ba15afd3165aa956d02c84cb92e03df0b05f39706",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1347d31ee117ebf0482249f4",
+      "french": "Actif légendaire",
+      "translation": "Actif légendaire",
+      "context": "XPManager.nomsGradesFrancais",
+      "status": "source",
+      "sourceHash": "1347d31ee117ebf0482249f4b822d14007d36aef5bd39ce9e0a8711efb69726d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a816a2b5b1ee4961ee4ffc86",
+      "french": "This experience contains jump scares, loud sounds and flashing lights.\nIt is not recommended for people with heart conditions or sensitivity to flashing lights.",
+      "translation": "This experience contains jump scares, loud sounds and flashing lights.\nIt is not recommended for people with heart conditions or sensitivity to flashing lights.",
+      "context": "LangueLocaleFR.textesFrancais",
+      "status": "source",
+      "sourceHash": "a816a2b5b1ee4961ee4ffc868a8028d0e6e168b721167ffd589a4563a8bb22a7",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c659ab463a46c9e5d0261777",
+      "french": "Vie : 100",
+      "translation": "Vie : 100",
+      "context": "LangueLocaleFR.textesFrancais",
+      "status": "source",
+      "sourceHash": "c659ab463a46c9e5d0261777350b7ed204494ae202f7d007a41e3a9a4e9471a0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2b5104f5fc26909ebac223ae",
+      "french": "Niveau",
+      "translation": "Niveau",
+      "context": "Assets/Script/LobbyPlayerLabelsFR.cs",
+      "status": "source",
+      "sourceHash": "2b5104f5fc26909ebac223ae61833eb2cab454a5e603b7dafe52907b0e7a7362",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3613a7f6a8602c962b402000",
+      "french": "PRÊT",
+      "translation": "PRÊT",
+      "context": "Assets/Script/LobbyPlayerLabelsFR.cs",
+      "status": "source",
+      "sourceHash": "3613a7f6a8602c962b4020002525483b584d676ef47fa0efaae6dd3c1454b961",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2de0239f1cc59e2fd6bf2fc7",
+      "french": "PAS PRÊT",
+      "translation": "PAS PRÊT",
+      "context": "Assets/Script/LobbyPlayerLabelsFR.cs",
+      "status": "source",
+      "sourceHash": "2de0239f1cc59e2fd6bf2fc74396a280d460f6def36c6d82da9dc6c205c2db88",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_ba4565b46de77ce6c5c84360",
+      "french": "Versement des gains en cours...",
+      "translation": "Versement des gains en cours...",
+      "context": "Assets/Script/ReadyGameManager.cs",
+      "status": "source",
+      "sourceHash": "ba4565b46de77ce6c5c843601820d6eb08cf8909ea111789bc2c6cab52ceb076",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9cb8c0c359c2130df3cb656f",
+      "french": "Grade : ",
+      "translation": "Grade : ",
+      "context": "Assets/Script/XPManager.cs",
+      "status": "source",
+      "sourceHash": "9cb8c0c359c2130df3cb656f33be828e416ff6e6d77dd787e11a5bb201bf8673",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e616c33c4e7475c3147ba345",
+      "french": "LANCER AVEC LES JOUEURS READY",
+      "translation": "LANCER AVEC LES JOUEURS READY",
+      "context": "Assets/LastEntryCharge/ForceStartLobbyUIFR.cs",
+      "status": "source",
+      "sourceHash": "e616c33c4e7475c3147ba34520b163b08d88d32ed1b02961384a71719a6ac6f6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_70ec664861c43194c85d5cc8",
+      "french": "Partie en cours",
+      "translation": "Partie en cours",
+      "context": "Assets/LastEntryCharge/ForceStartLobbyUIFR.cs",
+      "status": "source",
+      "sourceHash": "70ec664861c43194c85d5cc8ebbd48026a88da20f6607ee57715a9a467454a43",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_68e0a4033bbde40ae38de3f4",
+      "french": "Proprietaire de l'instance uniquement - Ready : ",
+      "translation": "Proprietaire de l'instance uniquement - Ready : ",
+      "context": "Assets/LastEntryCharge/ForceStartLobbyUIFR.cs",
+      "status": "source",
+      "sourceHash": "68e0a4033bbde40ae38de3f460a96efc15252d127cc036d262d1eeca98dba806",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_043b4ef944352456679f656e",
+      "french": "Capacite de la map atteinte (prevu +",
+      "translation": "Capacite de la map atteinte (prevu +",
+      "context": "Assets/LastEntryCharge/InstanceStreakPanelFR.cs",
+      "status": "source",
+      "sourceHash": "043b4ef944352456679f656e128d9fcc2ca243718f212ffb95a0f03edc220a10",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_342be18ac12d5903e298a922",
+      "french": "Objets selon la capacite disponible de la map.",
+      "translation": "Objets selon la capacite disponible de la map.",
+      "context": "Assets/LastEntryCharge/InstanceStreakPanelFR.cs",
+      "status": "source",
+      "sourceHash": "342be18ac12d5903e298a9221ca8ed37cf7d5f1ad196167ebdc1256580807c47",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_76fd0a2bec33ab8ec70aaa7f",
+      "french": "Victoire d'equipe : +",
+      "translation": "Victoire d'equipe : +",
+      "context": "Assets/LastEntryCharge/InstanceStreakPanelFR.cs",
+      "status": "source",
+      "sourceHash": "76fd0a2bec33ab8ec70aaa7ff01f2b80c33f53d518b7d06688ecee186ecdc01c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_2d520e8767f49c4cc77e38cc",
+      "french": " objets / +",
+      "translation": " objets / +",
+      "context": "Assets/LastEntryCharge/InstanceStreakPanelFR.cs",
+      "status": "source",
+      "sourceHash": "2d520e8767f49c4cc77e38cc51ac76418f3134de6ca02c6d9a7271abccbfabd1",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f5de6cc1bd0d2311a14f3869",
+      "french": " XP par palier.\nDefaite : remise a zero. Serie propre a l'instance.",
+      "translation": " XP par palier.\nDefaite : remise a zero. Serie propre a l'instance.",
+      "context": "Assets/LastEntryCharge/InstanceStreakPanelFR.cs",
+      "status": "source",
+      "sourceHash": "f5de6cc1bd0d2311a14f38698d3d7da10d50a9453d58fa512763fd1a9bd60e5a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_288d768d7c3c56a4c0fceb7b",
+      "french": "LOBBY",
+      "translation": "LOBBY",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "288d768d7c3c56a4c0fceb7bf1a60ec88d3ecce8e57c5dcc7ab05300f427364d",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f016deb873bf25263833bb69",
+      "french": "JOUEURS PRETS",
+      "translation": "JOUEURS PRETS",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "f016deb873bf25263833bb6944ea4458ae657627b4081f7a702955c9057b29a2",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9a2ea3f0b02d4af7b549c61a",
+      "french": "JOUEURS",
+      "translation": "JOUEURS",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "9a2ea3f0b02d4af7b549c61a16e1c1ab8315d078c18bf0120ce25147f2e2d44a",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_071b80bfa423735d18a4da41",
+      "french": "ETAT",
+      "translation": "ETAT",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "071b80bfa423735d18a4da41c7ba53ed6349d04f53cf3dee370fdf30c7201ce6",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_1cf77e7418ff2acc35882f3a",
+      "french": "PRET",
+      "translation": "PRET",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "1cf77e7418ff2acc35882f3a8b031ca99cca56684cf85efdf5b69cbaa45c0db9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_fb015fad3d255bc27729785a",
+      "french": "ATTENTE",
+      "translation": "ATTENTE",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "fb015fad3d255bc27729785acafad1a8a938080e9b4e8cfc3c5eb6d473bcde14",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9797fa09f99da296cbb9aad1",
+      "french": "En attente de joueurs...",
+      "translation": "En attente de joueurs...",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "9797fa09f99da296cbb9aad1fd8b1642c75a98d9ba6573bc6f99b439ed17cd69",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a9fd3ecc67a9b8bc3b4b8705",
+      "french": "La partie demarre quand tous les joueurs sont prets.",
+      "translation": "La partie demarre quand tous les joueurs sont prets.",
+      "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
+      "status": "source",
+      "sourceHash": "a9fd3ecc67a9b8bc3b4b87050af7cf38fe2b3bd8491c8a09ac894ce0e805d9ea",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_66e3be9cefd97f3016483b8f",
+      "french": "COMMANDES VR",
+      "translation": "COMMANDES VR",
+      "context": "Assets/LastEntryCharge/VRPlayerPreferencesFR.cs",
+      "status": "source",
+      "sourceHash": "66e3be9cefd97f3016483b8f7c0ef54c5289905c47786bedf98634812218c532",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_9b271f271c5e3b96b6642099",
+      "french": "BRAS DE L'AFFICHAGE DES PV",
+      "translation": "BRAS DE L'AFFICHAGE DES PV",
+      "context": "Assets/LastEntryCharge/VRPlayerPreferencesFR.cs",
+      "status": "source",
+      "sourceHash": "9b271f271c5e3b96b6642099958b86ab8bf2f4bc3a3dde8396369a9921650fae",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f5c9bc9c6ef6e0adb28445ba",
+      "french": "GACHETTE DE LA LAMPE",
+      "translation": "GACHETTE DE LA LAMPE",
+      "context": "Assets/LastEntryCharge/VRPlayerPreferencesFR.cs",
+      "status": "source",
+      "sourceHash": "f5c9bc9c6ef6e0adb28445baa660d02aa25d897826da882149f578b211ad7acd",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a1297acaad4d3dc8367f9934",
+      "french": "GAUCHE",
+      "translation": "GAUCHE",
+      "context": "Assets/LastEntryCharge/VRPlayerPreferencesFR.cs",
+      "status": "source",
+      "sourceHash": "a1297acaad4d3dc8367f99345b5b1e2f70365771c2640744f208c1e042f4030e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_db0739b1fbeb4cb6a930fbc1",
+      "french": "DROITE",
+      "translation": "DROITE",
+      "context": "Assets/LastEntryCharge/VRPlayerPreferencesFR.cs",
+      "status": "source",
+      "sourceHash": "db0739b1fbeb4cb6a930fbc147bde3d77ac4d9c5011f3bcfb17acc9f5f23356b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_cc2e630254d04b73fee616b9",
+      "french": "Dead Line\n[100 C]",
+      "translation": "Dead Line\n[100 C]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "cc2e630254d04b73fee616b9bd2a1b965f13227c79d1c1cc36835ba8e773936e",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e8110020205af4f6c3de1a82",
+      "french": "Specter-X\n[60 C]",
+      "translation": "Specter-X\n[60 C]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "e8110020205af4f6c3de1a82c2f7962cfba3ccce7f094f3ac4e32a1644f9c458",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_d874efa8b79d3be27015f77b",
+      "french": "Kit de soin\n[20 C]",
+      "translation": "Kit de soin\n[20 C]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "d874efa8b79d3be27015f77bb2e4b2118ae5d4eeadd9c979ce7e99adf4f95ca0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_cad5e6ca464c0be80c2e55a2",
+      "french": "Objet selectionne : Aucun",
+      "translation": "Objet selectionne : Aucun",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "cad5e6ca464c0be80c2e55a2eb8bde76a6bccfae929c472145c331f6e1952775",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_7be9ea0585f5d00e174a5465",
+      "french": "Fentanyl\n[10 C]",
+      "translation": "Fentanyl\n[10 C]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "7be9ea0585f5d00e174a5465670743724a029f83f8c32e356e773b433ccd46e0",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_27c7d2ceb74ededdba7684ad",
+      "french": "Xylazine\n[400 C]",
+      "translation": "Xylazine\n[400 C]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "27c7d2ceb74ededdba7684adeab52ef5db69352630e1e9d7b503210483b3395f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_28a4f4355e6d3ccc897816e4",
+      "french": "Breaker\n[0 C]",
+      "translation": "Breaker\n[0 C]",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "28a4f4355e6d3ccc897816e40c69a441a23c2de1e5343b9fdad1de95a31d29b5",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b02bd3eddebc2b401d61174c",
+      "french": "Trop de joueurs. Maximum.",
+      "translation": "Trop de joueurs. Maximum.",
+      "context": "ReadyGameManager.texteTropDeJoueurs",
+      "status": "source",
+      "sourceHash": "b02bd3eddebc2b401d61174c53b2b0a4ea70ec6133d47f4781d66bdf5e8beecf",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_4cf644d78bfc298f26ba4c17",
+      "french": "MAP",
+      "translation": "MAP",
+      "context": "ReadyGameManager.texteMap",
+      "status": "source",
+      "sourceHash": "4cf644d78bfc298f26ba4c170c7a1c04c3d1388e09fdd02534f23433a9a8f227",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_17c54710f3b3a95a66f6d691",
+      "french": "SLASHER",
+      "translation": "SLASHER",
+      "context": "ReadyGameManager.texteSlasher",
+      "status": "source",
+      "sourceHash": "17c54710f3b3a95a66f6d691ffe3603f42c111a6f2e53f9d82747132868915f8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_47b15010ccb454c0cce6be19",
+      "french": "Temps",
+      "translation": "Temps",
+      "context": "ReadyGameManager.texteTemps",
+      "status": "source",
+      "sourceHash": "47b15010ccb454c0cce6be19d03a3b29554d7c952380a0fb1dd41f10b72b20ed",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3973e022e93220f9212c18d0",
+      "french": "-",
+      "translation": "-",
+      "context": "ReadyGameManager.texteAlerteTemps",
+      "status": "source",
+      "sourceHash": "3973e022e93220f9212c18d0d0c543ae7c309e46640da93a4a0314de999f5112",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c65fea8778428aa96174de82",
+      "french": "Credits recuperes",
+      "translation": "Credits recuperes",
+      "context": "ReadyGameManager.texteCreditsRecuperes",
+      "status": "source",
+      "sourceHash": "c65fea8778428aa96174de822ea76af869fd1742fc79a257c303175c3a8c1389",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_49d8ca4048cdc379b205554c",
+      "french": "ALIVE",
+      "translation": "ALIVE",
+      "context": "ReadyGameManager.texteVivants",
+      "status": "source",
+      "sourceHash": "49d8ca4048cdc379b205554ccc764e1a062c6eff259ba5e7f2b9e12bd8800c3f",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_64aee8c6cbd026d9ea922166",
+      "french": "Player",
+      "translation": "Player",
+      "context": "ReadyGameManager.texteJoueurSansNom",
+      "status": "source",
+      "sourceHash": "64aee8c6cbd026d9ea9221661f7632351d9a741198cd01ca017450b56f78a206",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b23b2c285114ca030dff3fab",
+      "french": "WINNER",
+      "translation": "WINNER",
+      "context": "ReadyGameManager.texteJoueurGagnant",
+      "status": "source",
+      "sourceHash": "b23b2c285114ca030dff3fab18f43d53bac7c3586ec43e0490f57d6f33d55f3c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f5788b96310c9174411ea517",
+      "french": "DEAD",
+      "translation": "DEAD",
+      "context": "ReadyGameManager.texteJoueurMort",
+      "status": "source",
+      "sourceHash": "f5788b96310c9174411ea51777f675b8e0735fd51a4ae732c3d078987a953160",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_c2e3ac47f4a325469c1a2d5f",
+      "french": "READY",
+      "translation": "READY",
+      "context": "ReadyGameManager.texteJoueurReady",
+      "status": "source",
+      "sourceHash": "c2e3ac47f4a325469c1a2d5f117e463ec943c721986d5d9f09ac4540b7d80526",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_69f59bbce741de317b5082bb",
+      "french": "NOT READY",
+      "translation": "NOT READY",
+      "context": "ReadyGameManager.texteJoueurPasReady",
+      "status": "source",
+      "sourceHash": "69f59bbce741de317b5082bb96b075b06cd46f91b51bd242a18754f04226742b",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_a03b221c6c6eae7122ca5169",
+      "french": "???",
+      "translation": "???",
+      "context": "ReadyGameManager.texteSlasherSansNom",
+      "status": "source",
+      "sourceHash": "a03b221c6c6eae7122ca51695d456d5222e524889136394944b2f9763b483615",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_b95c66380a3246d94d216ff0",
+      "french": "Valeur : {0} crédits",
+      "translation": "Valeur : {0} crédits",
+      "context": "Assets/Script/ObjectiveItem.cs",
+      "status": "source",
+      "sourceHash": "b95c66380a3246d94d216ff09b3805d020354c3a4fe9270fefe78397aa1722e8",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_3cbe7e4127a7f867006310d3",
+      "french": "Cœur de {0} — Valeur : {1} crédits",
+      "translation": "Cœur de {0} — Valeur : {1} crédits",
+      "context": "Assets/Script/PlayerHeartPickup.cs",
+      "status": "source",
+      "sourceHash": "3cbe7e4127a7f867006310d39a52cfadcaf9217ee94fb9bc646eb9c358439986",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_706f6c254d96ced1ed378e1c",
+      "french": "PATREON",
+      "translation": "PATREON",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "706f6c254d96ced1ed378e1cfed531ae78ed7fc272cecaa5d3b142ee0dc196e9",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_f4a5305e865f4d07e8870fb0",
+      "french": "patreon.com/shokomaki",
+      "translation": "patreon.com/shokomaki",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "f4a5305e865f4d07e8870fb06fb45c646bbdfac520d6063c7e032ffa5d8e3a94",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_8e36418a6bedb17b654a50ef",
+      "french": "MERCI A NOS SOUTIENS",
+      "translation": "MERCI A NOS SOUTIENS",
+      "context": "Dictionnaire FR/EN",
+      "status": "source",
+      "sourceHash": "8e36418a6bedb17b654a50eff1c2bb59f8af95139e5e1a7566a3833d660cee1c",
+      "archived": false,
+      "excluded": false
+    },
+    {
+      "id": "le_e738fb82cbbc76c4975c6192",
+      "french": "SOUTIEN PRESENT : XP +20 %",
+      "translation": "SOUTIEN PRESENT : XP +20 %",
+      "context": "Assets/Script/LobbyPlayerLabelsFR.cs",
+      "status": "source",
+      "sourceHash": "e738fb82cbbc76c4975c61926aceeb0a65f6ec83f356fa6fb7da7bc582ac5b27",
+      "archived": false,
+      "excluded": false
+    }
+  ]
+}
