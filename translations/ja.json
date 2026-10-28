@@ -355,7 +355,7 @@
     {
       "id": "le_bd661f2b6dc258cd2ecda3cd",
       "french": "AUTO-ACHAT\nOUI",
-      "translation": "自己購入\nはい",
+      "translation": "自動購入\nはい",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "bd661f2b6dc258cd2ecda3cd10cc2619c138c8e38aa1f42d09404ca9afe5deaa",
@@ -365,7 +365,7 @@
     {
       "id": "le_b39817dbfae778eac9af7ae8",
       "french": "AUTO-ACHAT\nNON",
-      "translation": "自己購入\nいいえ",
+      "translation": "自動購入\nいいえ",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "b39817dbfae778eac9af7ae8d78a5fd88bb7b3b86422e8884b480ec7885c8186",
@@ -385,7 +385,7 @@
     {
       "id": "le_88411c9f64c31be015f06371",
       "french": "Crédit : ",
-      "translation": "出典： ",
+      "translation": "クレジット： ",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "88411c9f64c31be015f06371f2f3a0e8d627eb8a2e3387afb367f700a308b7e3",
@@ -575,7 +575,7 @@
     {
       "id": "le_5e718312aaaecf78a4c2305d",
       "french": "Auto-achat desactive pour le moment.",
-      "translation": "現時点では、自己購入機能は無効になっています。",
+      "translation": "現時点では、自動購入機能は無効になっています。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "5e718312aaaecf78a4c2305d66d1e3fe63b66cde0a0f9023e7fcd6d3b236b231",
@@ -665,7 +665,7 @@
     {
       "id": "le_088bcaf1ff1110363c8cb7eb",
       "french": "Spectateur\nAucun joueur vivant",
-      "translation": "観客\n生存している選手はいない",
+      "translation": "観客\n生存しているプレイヤーはいない",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "088bcaf1ff1110363c8cb7eba4a74cdccb99ebb1289eb0c39344ecee160fdb77",
@@ -745,7 +745,7 @@
     {
       "id": "le_5b78e75d89b41704fc77b334",
       "french": "Auto-achat limite aux 30 premiers objets.",
-      "translation": "自己購入は最初の30個までです。",
+      "translation": "自動購入は最初の30個までです。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "5b78e75d89b41704fc77b334a6d8b4933a40227745f388621450439fb0100871",
@@ -755,7 +755,7 @@
     {
       "id": "le_44b19fcb63d88ee6d437ece0",
       "french": "Kit de soin",
-      "translation": "スキンケアセット",
+      "translation": "メディカルセット",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "44b19fcb63d88ee6d437ece041e3ed62fe7d44db8b2534be6e28eeba53572a1c",
@@ -785,7 +785,7 @@
     {
       "id": "le_28059523e22f99bdebc57283",
       "french": "Dead Line",
-      "translation": "締め切り",
+      "translation": "デッドライン",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "28059523e22f99bdebc5728368e66b35490ae73efcbeb67864b50fe1c396bbcd",
@@ -805,7 +805,7 @@
     {
       "id": "le_6272d058ffc163ef728dbfbc",
       "french": "Parfait pour soigner les bobo laissé par le travail \nLa société ne couvre pas les frais si vous vous coincez les doigts dans une porte.\n[HP+50]",
-      "translation": "仕事による疲れを癒すのに最適 \nドアに指を挟んでしまった場合、当社は費用を負担しません。\n[HP+50]",
+      "translation": "仕事による疲れを癒すのに最適。\nドアに指を挟んでしまった場合、当社は費用を負担しません。\n[HP+50]",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "6272d058ffc163ef728dbfbcf52d5231c5ef0a4b6b7fc11aae3f82cfaa348bc7",
@@ -835,7 +835,7 @@
     {
       "id": "le_ce11c865f68026f8007c3f96",
       "french": "Une fois activé, il déclenche une série de sons particulièrement agaçants qui attirent l’attention du Slasher et augmentent fortement son agressivité.\n\nVestige Corporation recommande de ne pas rester à proximité après activation.",
-      "translation": "発動すると、特に耳障りな一連の音が鳴り響き、スラッシャーの注意を引きつけ、その攻撃性を大幅に高めます。\n\nVestige Corporationは、作動後はその付近に留まらないことを推奨しています。",
+      "translation": "発動すると耳障りな音が鳴り響き、スラッシャーの注意を引きつけ、その攻撃性を大幅に高めます。\n\nVestige Corporationは、作動後はその付近に留まらないことを推奨しています。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "ce11c865f68026f8007c3f96b5a41087d291a57b11e45aa9c86451f01a430f1e",
@@ -845,7 +845,7 @@
     {
       "id": "le_007033567d9e19efbb2b8410",
       "french": "Bonne sante",
-      "translation": "お元気で",
+      "translation": "健康",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "007033567d9e19efbb2b8410f77c1e2aa0256abae9bdddfca24c20932949553f",
@@ -855,7 +855,7 @@
     {
       "id": "le_daa783e23c0fa99906a556a9",
       "french": "Enorme et sec",
-      "translation": "巨大で乾燥している",
+      "translation": "肉体美",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "daa783e23c0fa99906a556a96f86161e99d28b6e8f050212aff5ec17a086145f",
@@ -865,7 +865,7 @@
     {
       "id": "le_165b9265631e71f8731b10cb",
       "french": "Rapido",
-      "translation": "ラピド",
+      "translation": "ラピッド",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "165b9265631e71f8731b10cb6852c5db9514baed0bc9030d5490faf558b94ebe",
@@ -955,7 +955,7 @@
     {
       "id": "le_e439db17170735eb1bac8c4c",
       "french": "Studieux",
-      "translation": "勤勉な",
+      "translation": "勤勉",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "e439db17170735eb1bac8c4ca139cce289a8a2a8b515191c0e26ae132ffb7ab7",
@@ -1145,7 +1145,7 @@
     {
       "id": "le_a1fb72abe992f4260b654d7f",
       "french": "Bravo !\nA force de prendre des coups tu es devenu plus résistant \n[HP +10]",
-      "translation": "よくできました！\n何度も打撃を受けてきたおかげで、君はより強靭になった \n[HP + 10]",
+      "translation": "よくやった！\n何度も打撃を受けてきたおかげで、君はより強靭になった \n[HP + 10]",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "a1fb72abe992f4260b654d7fe503f56323e00b84e96023a48b52003e44fb2081",
@@ -1155,7 +1155,7 @@
     {
       "id": "le_8430ba08b6b8ce6b09d49cea",
       "french": "Vous avez suivis des tutos sur internet pour devenir plus fort.\nVous faites plus de bruit à cause de vos gros muscles.\n[Force +0.1]\n[Furtivité -0.2]",
-      "translation": "インターネット上のチュートリアルを見て、もっと強くなるために練習してきました。\n筋肉が発達しているせいで、より大きな音を立てているのです。\n[力 + 0.1]\n[ステルス - 0.2]",
+      "translation": "インターネット上のチュートリアルを見て、もっと強くなるために練習してきた。\n筋肉の発達によって、より大きな音を立てているのです。\n[力 + 0.1]\n[ステルス - 0.2]",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "8430ba08b6b8ce6b09d49cea1238cf5dea89ec2956fc0e3458e8b0af3e3bd1d6",
@@ -1165,7 +1165,7 @@
     {
       "id": "le_37afd97c267d4cee181c4a5d",
       "french": "Vous êtes le plus rapide pour quitter l'entreprise le soir et c'est déjà bien.\n[Vitesse +0.1]",
-      "translation": "あなたは夕方、一番早く会社を出る人ですが、それだけでも十分素晴らしいことです。\n[速度 + 0.1]",
+      "translation": "君は定時退勤を徹底しているが、それだけでも十分素晴らしいことだ。\n[速度 + 0.1]",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "37afd97c267d4cee181c4a5ddb91da230c586d3b061ecd4fe9900c348a6da75e",
@@ -1265,7 +1265,7 @@
     {
       "id": "le_75cf7196933fcaaf13212860",
       "french": "Tu es très sensible au bruit des slashers\n[Compétence: Detection]\n[HP+5]\n[Vitesse -0.1]",
-      "translation": "君はスラッシャー映画の物音にとても敏感だね\n[スキル：検出]\n[HP+5]\n[速度 - 0.1]",
+      "translation": "君はスラッシャーの物音にとても敏感だね\n[スキル：検出]\n[HP+5]\n[速度 - 0.1]",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "75cf7196933fcaaf13212860d9598fbd3d96f9ff3cb2763fff7b13f37e7d9ed9",
@@ -1315,7 +1315,7 @@
     {
       "id": "le_2b16d98c74ba8755fd482505",
       "french": "Ok toi t'es un vrai chef tu travail beaucoup mais tu es pas foutu de te payer toi même...\nTu es pas très apte au terrain.\n[Credit: -1]\n[XP: +1]\n[HP -30]\n[Vitesse -0.1]",
-      "translation": "「おい、お前は正真正銘のボスなのに、たくさん働いているくせに、自分への給料すら払えないなんて……」\n君は現場向きじゃないな。\n[出典：-1]\n[XP: +1]\n[HP - 30]\n[速度 - 0.1]",
+      "translation": "「おい、お前は正真正銘のボスなのに、たくさん働いているくせに、自分への給料すら払えないなんて……」\n君は現場向きじゃないな。\n[クレジット：-1]\n[XP: +1]\n[HP - 30]\n[速度 - 0.1]",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "2b16d98c74ba8755fd482505ba74764e4b849531a6b7bca0e35c5ea6118afd0a",
@@ -1605,7 +1605,7 @@
     {
       "id": "le_b5b9bc13e5948433dd4f1614",
       "french": "Sujet : FREE HUGGY\r\nOrigine : Mascotte scolaire / Fan de metal\nNiveau de danger : UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNote du personnel :\r\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
-      "translation": "件名：FREE HUGGY\r\n出身：学校のマスコット／メタルファン\n危険度：不安定\r\n\r\n「フリー・ハギー」は、この地域のいくつかの学校で、子供たちを対象としたイベントに活用されていました。\r\n彼が撤退することになった事故は、通常の出動中に発生した。現場にいたペットが彼の足を噛んだとみられている。\r\nハギーは、おもちゃでその動物を何度も叩いて応戦した。\r\nその動物は助からなかった。\r\nそのマスコットは直ちにプログラムから外されたが、事件後、その行動は急速に悪化していった。彼女は今もなお、まるでまだパフォーマンスの最中であるかのように、話し、笑い、振る舞っている。\r\nそのおもちゃは今も彼の手にあります。\r\n\r\nスタッフからの注記：\r\nその外見に惑わされないでください。\r\nそして何より、彼にハグを求めたりしないでください……",
+      "translation": "件名：FREE HUGGY\r\n出身：学校のマスコット／メタルファン\n危険度：UNSTABLE\r\n\r\n「フリー・ハギー」は、この地域のいくつかの学校で、子供たちを対象としたイベントに活用されていました。\r\n彼が撤退することになった事故は、通常の出動中に発生した。現場にいたペットが彼の足を噛んだとみられている。\r\nハギーは、おもちゃでその動物を何度も叩いて応戦した。\r\nその動物は助からなかった。\r\nそのマスコットは直ちにプログラムから外されたが、事件後、その行動は急速に悪化していった。彼女は今もなお、まるでまだパフォーマンスの最中であるかのように、話し、笑い、振る舞っている。\r\nそのおもちゃは今も彼の手にあります。\r\n\r\nスタッフからの注記：\r\nその外見に惑わされないでください。\r\nそして何より、彼にハグを求めたりしないでください……",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "b5b9bc13e5948433dd4f1614f18398be14872997e5bfea4ff1bbbe2e2b96204c",
@@ -1625,7 +1625,7 @@
     {
       "id": "le_9ded14b8169e123020284daa",
       "french": "Sujet : COCATRICE\nOrigine : Inconnue\nNiveau de danger : RAVAGER\n\nLa Cocatrice est une créature quadrupède dont la morphologie rappelle celle d’un immense lézard. Sa tête est presque entièrement occupée par une mâchoire disproportionnée, garnie de plusieurs rangées de dents.\nLe premier cas connu remonte à une ferme isolée.\nDurant la nuit, la créature aurait pénétré dans un enclos et décimé un troupeau entier de moutons. Le propriétaire, alerté par le bruit, aurait tenté d’intervenir.\nSon corps fut retrouvé près de l’enclos.\nLes seuls survivants furent ses enfants, restés endormis à l’intérieur de la maison pendant toute l’attaque.\nLa Cocatrice possède une audition extrêmement développée et semble capable de localiser une proie au moindre son.\nSa morsure est considérée comme systématiquement mortelle.\nSon venin attaque presque immédiatement le système nerveux. Les victimes perdent rapidement le contrôle de leurs muscles avant que les tissus ne commencent à se rigidifier et à prendre progressivement l’apparence de la pierre.\nLa paralysie intervient suffisamment vite pour empêcher la victime de crier ou même d’appeler à l’aide.\nNote du personnel :\nSi elle vous mord, n’essayez pas de hurler.\nVos nerfs auront probablement cessé de vous écouter avant vous.",
-      "translation": "件名：COCATRICE\n出典：不明\n危険レベル：壊滅的\n\nコカトリスは、その形態が巨大なトカゲを彷彿とさせる四足歩行の生物である。その頭部は、不釣り合いなほど大きな顎でほぼ占められており、そこには数列の歯が生えている。\n最初に確認された症例は、人里離れた農場で発生したものである。\n夜間に、その生物が囲いの中に侵入し、羊の群れを全頭殺害したとみられている。物音に気づいた飼い主が、制止しようとしたという。\nその遺体は囲いの近くで発見された。\n唯一生き残ったのは、襲撃の間ずっと家の中で眠り続けていた彼の子供たちだけだった。\nコカトリスは極めて鋭い聴覚を持ち、わずかな音でも獲物の居場所を突き止めることができるようだ。\nその咬傷は、常に致命的であると見なされている。\nその毒は、ほぼ即座に神経系を攻撃する。被害者は急速に筋肉の制御を失い、その後、組織が硬直し始め、次第に石のような外観を帯びていく。\n麻痺は、被害者が叫んだり、助けを求めたりすることさえできないほど、あっという間に起こる。\nスタッフからの注記：\nもし噛まれたら、叫ぼうとしてはいけません。\nおそらく、あなた自身よりも先に、あなたの神経が言うことを聞かなくなってしまうでしょう。",
+      "translation": "件名：COCATRICE\n出典：不明\n危険度：RAVAGER\n\nコカトリスは、その形態が巨大なトカゲを彷彿とさせる四足歩行の生物である。その頭部は、不釣り合いなほど大きな顎でほぼ占められており、そこには数列の歯が生えている。\n最初に確認された症例は、人里離れた農場で発生したものである。\n夜間に、その生物が囲いの中に侵入し、羊の群れを全頭殺害したとみられている。物音に気づいた飼い主が、制止しようとしたという。\nその遺体は囲いの近くで発見された。\n唯一生き残ったのは、襲撃の間ずっと家の中で眠り続けていた彼の子供たちだけだった。\nコカトリスは極めて鋭い聴覚を持ち、わずかな音でも獲物の居場所を突き止めることができるようだ。\nその咬傷は、常に致命的であると見なされている。\nその毒は、ほぼ即座に神経系を攻撃する。被害者は急速に筋肉の制御を失い、その後、組織が硬直し始め、次第に石のような外観を帯びていく。\n麻痺は、被害者が叫んだり、助けを求めたりすることさえできないほど、あっという間に起こる。\nスタッフからの注記：\nもし噛まれたら、叫ぼうとしてはいけません。\nおそらく、あなた自身よりも先に、あなたの神経が言うことを聞かなくなってしまうでしょう。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "9ded14b8169e123020284daadaf385418759b1d4240fd5f6aedc9c4b0267c57b",
@@ -1635,7 +1635,7 @@
     {
       "id": "le_84dc7e6f52aa3c8ee4877fde",
       "french": "Sujet : SMILER\nOrigine : Inconnue\nNiveau de danger : UNSTABLE\r\n\nLes premiers signalements parlent de simples visages observés dans des zones plongées dans le noir. Aucun corps n’a jamais été aperçu.\n\nLes Smilers semblent apparaître depuis un endroit inconnu, sans point d’entrée visible. Une autre hypothèse évoque une créature encore non identifiée capable de les invoquer ou de les envoyer sur place.\n\nLe nombre de Smilers augmente selon le nombre de personnes présentes dans la zone.\n\nFAIBLESSE\n\nLa lumière continue ne suffit pas.\n\nLe Smiler doit être flashé directement avec la lampe. Un flash correctement placé le force à disparaître.\n\nIl peut cependant revenir plus tard.\n\nNOTE VESTIGE\n\nNous ignorons d’où ils viennent.\n\nNous ignorons qui les envoie.\n\nMais nous savons qu’un flash fonctionne. Pour le moment, cela suffit.",
-      "translation": "件名：SMILER\n出典：不明\n危険度：不安定\r\n\n最初の目撃情報によると、真っ暗な場所で単なる「顔」が確認されたという。遺体はこれまで一度も目撃されていない。\n\nSmilerたちは、目に見える侵入経路もなく、正体不明の場所から現れているようだ。別の仮説では、彼らを召喚したり、その場へ送り込んだりできる、まだ正体不明の生物の存在が示唆されている。\n\nそのエリアにいる人の数に応じて、Smilerの数が増えていきます。\n\n弱点\n\n連続光だけでは不十分です。\n\nSmilerには、ライトを直接当てる必要があります。正しく光を当てると、それは消えてしまいます。\n\nただし、後で戻ってくる可能性はある。\n\n注：痕跡\n\n彼らがどこから来たのかは分からない。\n\n誰が送っているのかは分かりません。\n\nしかし、フラッシュが機能することはわかっています。今のところ、それで十分です。",
+      "translation": "件名：SMILER\n出典：不明\n危険度：UNSTABLE\r\n\n最初の目撃情報によると、真っ暗な場所で単なる「顔」が確認されたという。遺体はこれまで一度も目撃されていない。\n\nSmilerたちは、目に見える侵入経路もなく、正体不明の場所から現れているようだ。別の仮説では、彼らを召喚したり、その場へ送り込んだりできる、まだ正体不明の生物の存在が示唆されている。\n\nそのエリアにいる人の数に応じて、Smilerの数が増えていきます。\n\n弱点\n\n連続光だけでは不十分です。\n\nSmilerには、ライトを直接当てる必要があります。正しく光を当てると、それは消えてしまいます。\n\nただし、後で戻ってくる可能性はある。\n\n注：痕跡\n\n彼らがどこから来たのかは分からない。\n\n誰が送っているのかは分かりません。\n\nしかし、フラッシュが機能することはわかっています。今のところ、それで十分です。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "84dc7e6f52aa3c8ee4877fde7a422af13a3c6694c2970d7f492ba90ec11d1d4c",
@@ -1675,7 +1675,7 @@
     {
       "id": "le_0dea09606573c35ccebe8171",
       "french": "Employee consumed",
-      "translation": "従業員による消費",
+      "translation": "従業員は「消費」されました。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "0dea09606573c35ccebe81716b6e253782970e28c6394805de8d4060507c5b06",
@@ -1795,7 +1795,7 @@
     {
       "id": "le_804ae877559749a16fc538e5",
       "french": "Le joueur à la télé",
-      "translation": "テレビに出ている選手",
+      "translation": "映っているプレイヤー",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "804ae877559749a16fc538e568e791330e4fcc25fd1b71cb16215d4836996594",
@@ -2115,7 +2115,7 @@
     {
       "id": "le_adb53126d7f2d10ff58a449d",
       "french": "UNSTABLE",
-      "translation": "不安定",
+      "translation": "UNSTABLE",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "adb53126d7f2d10ff58a449d7d2072b0dcbe6e21e7c17352e69c831842d92f1e",
@@ -2265,7 +2265,7 @@
     {
       "id": "le_9fd8b666b3c1b1936ac5220e",
       "french": "AUTO-ACHAT",
-      "translation": "自己購入",
+      "translation": "自動購入",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "9fd8b666b3c1b1936ac5220e100f6ab8f8def40c22e9b2313bcc9ac68a7aa8a1",
@@ -2305,7 +2305,7 @@
     {
       "id": "le_1854c72a1bcbc4c4778cba0e",
       "french": "Sujet : FREE HUGGY\r\nOrigine : Mascotte scolaire / Fan de metal\nNiveau de danger : UNSTABLE\r\n\r\nFree Huggy était utilisé dans plusieurs écoles de la région pour des animations destinées aux enfants.\r\nL’incident ayant entraîné son retrait s’est produit pendant une intervention classique. Un animal de compagnie présent sur place lui aurait mordu la jambe.\r\nHuggy a réagi en frappant l’animal à plusieurs reprises avec son jouet.\r\nL’animal n’a pas survécu.\r\nLa mascotte a été immédiatement retirée du programme, mais son comportement s’est rapidement aggravé après l’incident. Elle continue de parler, rire et se comporter comme si elle était encore en pleine animation.\r\nLe jouet est toujours en sa possession.\r\n\r\nNOTE VESTIGE:\nNe vous laissez pas tromper par son apparence.\r\nEt surtout, ne lui demandez pas de câlin...",
-      "translation": "件名：FREE HUGGY\r\n出身：学校のマスコット／メタルファン\n危険度：不安定\r\n\r\n「フリー・ハギー」は、この地域のいくつかの学校で、子供たちを対象としたイベントに活用されていました。\r\n彼が現場から撤退することになった事故は、通常の出動中に発生した。現場にいたペットが彼の足を噛んだとみられる。\r\nハギーは、おもちゃでその動物を何度も叩いて応戦した。\r\nその動物は助からなかった。\r\nそのマスコットは直ちにプログラムから外されたが、事件後、その行動は急速に悪化していった。彼女は今もなお、まるでまだパフォーマンスの最中であるかのように、話し、笑い、振る舞っている。\r\nそのおもちゃは今も彼の手にあります。\r\n\r\n注：痕跡：\nその外見に惑わされないでください。\r\nそして何より、彼にハグを求めたりしないでください……",
+      "translation": "件名：FREE HUGGY\r\n出身：学校のマスコット／メタルファン\n危険度：UNSTABLE\r\n\r\n「フリー・ハギー」は、この地域のいくつかの学校で、子供たちを対象としたイベントに活用されていました。\r\n彼が現場から撤退することになった事故は、通常の出動中に発生した。現場にいたペットが彼の足を噛んだとみられる。\r\nハギーは、おもちゃでその動物を何度も叩いて応戦した。\r\nその動物は助からなかった。\r\nそのマスコットは直ちにプログラムから外されたが、事件後、その行動は急速に悪化していった。彼女は今もなお、まるでまだパフォーマンスの最中であるかのように、話し、笑い、振る舞っている。\r\nそのおもちゃは今も彼の手にあります。\r\n\r\n注：痕跡：\nその外見に惑わされないでください。\r\nそして何より、彼にハグを求めたりしないでください……",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "1854c72a1bcbc4c4778cba0ec7b9cf4583841d0a30e7db181bb58039e611b6fb",
@@ -2315,7 +2315,7 @@
     {
       "id": "le_62161ec2087ea164447cc5ee",
       "french": "Sujet : LES ENFANTS DE LA LUNE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nLes Enfants de la Lune ont été signalés après la disparition d’une équipe envoyée inspecter une propriété abandonnée. Le matériel a été retrouvé à proximité du bâtiment. Certaines lampes étaient encore allumées.\n\nLes derniers clichés montrent une dizaine de formes spectrales flottant entre les arbres. Leur nom apparaît dans les archives locales, associé à une ancienne disparition d’enfants. Rien ne permet de confirmer que ces fantômes sont les leurs.\n\nLa lune semble dicter leur comportement.\nLa lune violette accompagne généralement les premières manifestations.\nLes fantômes restent invisibles et aucun contact mortel n’a été rapporté durant cette période. Ils continuent cependant de se déplacer.\n\nSous la lune normale, ils errent lentement et poursuivent les personnes qu’ils aperçoivent.\n\nLa lune rouge déclenche une chasse beaucoup plus agressive : les entités retrouvent leurs cibles même lorsqu’elles se cachent.\n\nLa lune verte exige le silence. Les bruits attirent les fantômes, qui fouillent ensuite les environs de leur provenance.\n\nSous la lune ambre, ils poursuivent les personnes en mouvement. Un employé a survécu en restant immobile contre un mur. L’apparition s’est arrêtée devant lui, puis s’est détournée lorsque son collègue a pris la fuite.\n\nLa lune bleue permet de les arrêter en les regardant. Les témoins précisent qu’ils reprennent leur approche dès que l’attention se porte ailleurs.\n\nEntre chaque lune, la lumière disparaît et les fantômes s’effacent momentanément. Cette accalmie permet de changer de position. Elle ne dure jamais longtemps.\n\nAucun survivant n’a été recensé après un contact direct.\n\nNote du personnel :\nL’étude des lunes a nécessité plusieurs stagiaires. Aucun n’est revenu, mais leurs transmissions ont permis de terminer ce rapport.\nL’opération est donc considérée comme un succès.",
-      "translation": "件名：月の子供たち\n出所：不明\n危険度：捕食\n\n「月の子供たち」は、廃屋を調査するために派遣されたチームが行方不明になった後、目撃報告が寄せられた。 建物の近くで装備品が発見された。一部の照明はまだ点灯したままだった。\n\n最新の写真には、木々の間に浮かぶ十体ほどの幽霊のような姿が写っている。その名前は地元の記録に残っており、かつての子供たちの失踪事件と関連付けられている。しかし、これらの幽霊が彼らであることを裏付ける証拠は何もない。\n\n月が彼らの行動を左右しているようだ。\n最初の現象には、通常、紫色の月が伴う。\nこの期間中、幽霊たちは目に見えず、致命的な接触の報告もなかった。しかし、彼らは動き続けている。\n\n通常の月の下では、彼らはゆっくりと彷徨い、目についた人々を追いかける。\n\n赤い月が出ると、はるかに攻撃的な追跡が始まる。対象が隠れていても、幽霊たちはその居場所を突き止める。\n\n緑の月が出ると、静寂が求められる。物音が幽霊を引き寄せ、彼らはその音がした場所の周辺をくまなく探り回る。\n\n琥珀色の月が出ると、彼らは動く人を追いかける。 ある従業員は、壁に寄りかかってじっとしていることで生き延びた。幽霊は彼の前に立ち止まったが、同僚が逃げ出した途端、背を向けて去っていった。\n\n青い月の下では、彼らをじっと見つめることで動きを止められる。 目撃者によると、注意が他へ向けられるやいなや、彼らは再び接近してくるという。\n\n各月の間には光が消え、幽霊たちは一時的に姿を消す。この小康状態を利用して位置を変えることができる。しかし、それは決して長くは続かない。\n\n直接接触した後、生存者は確認されていない。\n\nスタッフ注：\n月の調査には複数の実習生が投入された。帰還した者は一人もいなかったが、彼らの送信データにより本報告書を完成させることができた。\nしたがって、この作戦は成功とみなされる。",
+      "translation": "件名：月の子供たち\n出所：不明\n危険度：DEVOURER\n\n「月の子供たち」は、廃屋を調査するために派遣されたチームが行方不明になった後、目撃報告が寄せられた。 建物の近くで装備品が発見された。一部の照明はまだ点灯したままだった。\n\n最新の写真には、木々の間に浮かぶ十体ほどの幽霊のような姿が写っている。その名前は地元の記録に残っており、かつての子供たちの失踪事件と関連付けられている。しかし、これらの幽霊が彼らであることを裏付ける証拠は何もない。\n\n月が彼らの行動を左右しているようだ。\n最初の現象には、通常、紫色の月が伴う。\nこの期間中、幽霊たちは目に見えず、致命的な接触の報告もなかった。しかし、彼らは動き続けている。\n\n通常の月の下では、彼らはゆっくりと彷徨い、目についた人々を追いかける。\n\n赤い月が出ると、はるかに攻撃的な追跡が始まる。対象が隠れていても、幽霊たちはその居場所を突き止める。\n\n緑の月が出ると、静寂が求められる。物音が幽霊を引き寄せ、彼らはその音がした場所の周辺をくまなく探り回る。\n\n琥珀色の月が出ると、彼らは動く人を追いかける。 ある従業員は、壁に寄りかかってじっとしていることで生き延びた。幽霊は彼の前に立ち止まったが、同僚が逃げ出した途端、背を向けて去っていった。\n\n青い月の下では、彼らをじっと見つめることで動きを止められる。 目撃者によると、注意が他へ向けられるやいなや、彼らは再び接近してくるという。\n\n各月の間には光が消え、幽霊たちは一時的に姿を消す。この小康状態を利用して位置を変えることができる。しかし、それは決して長くは続かない。\n\n直接接触した後、生存者は確認されていない。\n\nスタッフ注：\n月の調査には複数の実習生が投入された。帰還した者は一人もいなかったが、彼らの送信データにより本報告書を完成させることができた。\nしたがって、この作戦は成功とみなされる。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "62161ec2087ea164447cc5eeca0f14e1e1d5e83c91c5879d07f3692453e3578b",
@@ -2325,7 +2325,7 @@
     {
       "id": "le_e244b45a5b6866852b9c303b",
       "french": "Sujet : LES ENFANTS DE LA LUNE\nOrigine : Inconnue\nNiveau de danger : DEVOURER\n\nLes Enfants de la Lune ont été signalés après la disparition d’une équipe envoyée inspecter une propriété abandonnée.\n\nLa lune semble dicter leur comportement.\nLa lune violette accompagne généralement les premières manifestations.\nLes fantômes restent invisibles et aucun contact mortel n’a été rapporté durant cette période. Ils continuent cependant de se déplacer.\n\nSous la lune normale, ils errent lentement et poursuivent les personnes qu’ils aperçoivent.\n\nLa lune rouge déclenche une chasse beaucoup plus agressive : les entités retrouvent leurs cibles même lorsqu’elles se cachent.\n\nLa lune verte exige le silence. Les bruits attirent les fantômes, qui fouillent ensuite les environs de leur provenance.\n\nSous la lune ambre, ils poursuivent les personnes en mouvement. Un employé a survécu en restant immobile contre un mur. L’apparition s’est arrêtée devant lui, puis s’est détournée lorsque son collègue a pris la fuite.\n\nLa lune bleue permet de les arrêter en les regardant. Les témoins précisent qu’ils reprennent leur approche dès que l’attention se porte ailleurs.\n\nEntre chaque lune, la lumière disparaît et les fantômes s’effacent momentanément. Cette accalmie permet de changer de position. Elle ne dure jamais longtemps.\n\nAucun survivant n’a été recensé après un contact direct.\n\nNote du personnel :\nL’étude des lunes a nécessité plusieurs stagiaires. Aucun n’est revenu, mais leurs transmissions ont permis de terminer ce rapport.\nL’opération est donc considérée comme un succès.",
-      "translation": "件名：月の子供たち\n出典：不明\n危険度：むさぼり食う\n\n廃屋を調査するために派遣されたチームが行方不明になった後、「月の子供たち」の目撃情報が寄せられた。\n\n月が彼らの行動を左右しているようだ。\n最初の症状が現れる際には、たいてい紫色の月が伴います。\n幽霊たちは依然として姿を見せず、この期間中に致命的な接触が報告されたことはない。しかし、彼らは依然として動き回っている。\n\n普通の月の下で、彼らはゆっくりとさまよい、目についた人々を追いかける。\n\n赤い月が現れると、狩りははるかに攻撃的になる。敵は、標的が隠れていても見つけ出すのだ。\n\n緑の月は静寂を求める。物音は幽霊を引き寄せ、幽霊たちはその音がした場所の周辺をくまなく探り回るのだ。\n\n琥珀色の月明かりの下、彼らは動き回る人々を追いかけていた。ある従業員は、壁に寄りかかってじっと動かないことで生き延びた。その怪物は彼の前に立ち止まったが、同僚が逃げ出したのを見て、背を向けて去っていった。\n\n青い月を見れば、彼らを止めることができます。目撃者によると、注意が他へ向けられるやいなや、彼らは再び近づいてくるそうです。\n\n月と月の間の期間、光は消え、幽霊たちも一時的に姿を消す。この一息つく間に、位置を変えることができる。しかし、その時間は決して長くは続かない。\n\n直接接触した後、生存者は確認されなかった。\n\nスタッフからの注記：\n月の調査には、数名の研修生が必要でした。誰も戻ってきませんでしたが、彼らからの通信のおかげで、この報告書を完成させることができました。\nしたがって、この作戦は成功したと見なされている。",
+      "translation": "件名：月の子供たち\n出典：不明\n危険度：DEVOURER\n\n廃屋を調査するために派遣されたチームが行方不明になった後、「月の子供たち」の目撃情報が寄せられた。\n\n月が彼らの行動を左右しているようだ。\n最初の症状が現れる際には、たいてい紫色の月が伴います。\n幽霊たちは依然として姿を見せず、この期間中に致命的な接触が報告されたことはない。しかし、彼らは依然として動き回っている。\n\n普通の月の下で、彼らはゆっくりとさまよい、目についた人々を追いかける。\n\n赤い月が現れると、狩りははるかに攻撃的になる。敵は、標的が隠れていても見つけ出すのだ。\n\n緑の月は静寂を求める。物音は幽霊を引き寄せ、幽霊たちはその音がした場所の周辺をくまなく探り回るのだ。\n\n琥珀色の月明かりの下、彼らは動き回る人々を追いかけていた。ある従業員は、壁に寄りかかってじっと動かないことで生き延びた。その怪物は彼の前に立ち止まったが、同僚が逃げ出したのを見て、背を向けて去っていった。\n\n青い月を見れば、彼らを止めることができます。目撃者によると、注意が他へ向けられるやいなや、彼らは再び近づいてくるそうです。\n\n月と月の間の期間、光は消え、幽霊たちも一時的に姿を消す。この一息つく間に、位置を変えることができる。しかし、その時間は決して長くは続かない。\n\n直接接触した後、生存者は確認されなかった。\n\nスタッフからの注記：\n月の調査には、数名の研修生が必要でした。誰も戻ってきませんでしたが、彼らからの通信のおかげで、この報告書を完成させることができました。\nしたがって、この作戦は成功したと見なされている。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "e244b45a5b6866852b9c303bb50ed2735a5ed828a7b42da75ada7afa64f4ec1e",
@@ -2485,7 +2485,7 @@
     {
       "id": "le_a30bc5f94489aa62aba0e387",
       "french": "LAST ENTRY",
-      "translation": "最新のエントリー",
+      "translation": "LAST ENTRY",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "a30bc5f94489aa62aba0e387ef4a1b9fc12ab33c66a940b1f599266a3139577d",
@@ -2575,7 +2575,7 @@
     {
       "id": "le_603e2c532ca7a057c2af038d",
       "french": "Vestige Corporation vous recrute pour récupérer des biens dans des lieux dangereux.\n\nExplorez, rapportez le butin au camion et atteignez le quota de crédits de la mission. Revenez vivant avec votre équipe avant la fin du temps imparti.",
-      "translation": "ヴェスティジ・コーポレーションは、危険な場所から物品を回収するためにあなたを募集しています。\n\n探索を行い、戦利品をトラックに運び、ミッションのクレジットノルマを達成してください。制限時間が切れる前に、チーム全員で無事に帰還してください。",
+      "translation": "ヴェスティジ・コーポレーションは、危険な場所から物品を回収するための人員を募集しています。\n\n探索を行い、戦利品をトラックに運び、ミッションのクレジットノルマを達成してください。制限時間が切れる前に、チーム全員で無事に帰還してください。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "603e2c532ca7a057c2af038d48c8263add90b666a36964792c40c028fd04e800",
@@ -2715,7 +2715,7 @@
     {
       "id": "le_106c8b9c16daa75d6913fb36",
       "french": "06 — SURVIVEZ AUX SLASHERS",
-      "translation": "06 — スラッシャー映画を生き延びろ",
+      "translation": "06 — スラッシャーから生き延びろ",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "106c8b9c16daa75d6913fb367ea07f69ec48966d984fbd30de10aae8ce2a442a",
@@ -2755,7 +2755,7 @@
     {
       "id": "le_88cd71c9dddd3e2537c35c0b",
       "french": "Après la séquence de mort, vous revenez au lobby comme spectateur. Si plus aucun joueur ne peut poursuivre la mission, elle se termine.\n\nUn joueur tué par un Slasher peut laisser un cœur récupérable à vendre au camion.\n\nUn objet du shop lâché à la mort reste payé ; les survivants peuvent le récupérer.",
-      "translation": "死亡シーンが終わると、観客としてロビーに戻ります。ミッションを継続できるプレイヤーが誰もいなくなると、ミッションは終了します。\n\nスラッシャーに倒されたプレイヤーは、回収可能なハートを残すことがあり、それをトラックで売却できる。\n\n死亡時にドロップされたショップのアイテムは購入済みとして扱われ、生存者はそれを回収することができます。",
+      "translation": "死亡シーンが終わると、観客としてロビーに戻ります。ミッションを継続できるプレイヤーが誰もいなくなると、ミッションは終了します。\n\nスラッシャーに倒されたプレイヤーは、回収可能な心臓を残すことがあり、それもトラックで売却できる。\n\n死亡時にドロップされたショップのアイテムは購入済みとして扱われ、生存者はそれを回収することができます。",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "88cd71c9dddd3e2537c35c0b7527cdb80349d4b7dfe76b16c8465a9356de3be1",
@@ -3115,7 +3115,7 @@
     {
       "id": "le_016f7bed66ffc7d464bb4a98",
       "french": "Vie : ",
-      "translation": "生活： ",
+      "translation": "体力： ",
       "context": "Dictionnaire FR/EN",
       "status": "translated",
       "sourceHash": "016f7bed66ffc7d464bb4a98eb3b1a656f3ff7c5e81dfda264eeef92f3a9865a",
@@ -3135,7 +3135,7 @@
     {
       "id": "le_f04144b30090b87cbd5b79ff",
       "french": "LAST ENTRY\nCréation du jeu : Shokomaki\nToutes les ressources présentes dans le jeu sont modifiées\n\nSlasher:\n\n==================\nFree-Huggy: Sayge478\nDoublage: VoiceMod Shokomaki\nMusique: Tunnel Of Games\r | Feycee69\n==================\nLilfy: EkaSilicon_Es / エカケイソ (Modèle original disponible sur Booth)\nDoublage: MissBlake\nMusique: Bassloom Phantom Skid \n==================\nChildren of the Moon: SR Studios Kerala\n==================\nDeadSpine: Panchenko Lyudmila\n==================\nCocatrice: Arloc\n==================\n\nMusiques:\n",
-      "translation": "最新のエントリー\nゲーム制作：Shokomaki\nゲーム内のすべてのリソースが変更されています\n\nスラッシャー：\n\n==================\nFree-Huggy: Sayge 478\n吹き替え：VoiceMod Shokomaki\n音楽：Tunnel Of Games\r | フェイシー69\n==================\nLilfy: EkaSilicon_Es / エカケイソ（オリジナルモデルはBoothで販売中）\n吹き替え：MissBlake\n楽曲：Bassloom Phantom Skid \n==================\n『Children of the Moon』：SR Studios Kerala\n==================\nDeadSpine：パンチェンコ・リュドミラ\n==================\n作成者：Arloc\n==================\n\n音楽：\n",
+      "translation": "LAST ENTRY\nゲーム制作：Shokomaki\nゲーム内のすべてのリソースが変更されています\n\nスラッシャー：\n\n==================\nFree-Huggy: Sayge 478\n吹き替え：VoiceMod Shokomaki\n音楽：Tunnel Of Games\r | フェイシー69\n==================\nLilfy: EkaSilicon_Es / エカケイソ（オリジナルモデルはBoothで販売中）\n吹き替え：MissBlake\n楽曲：Bassloom Phantom Skid \n==================\n『Children of the Moon』：SR Studios Kerala\n==================\nDeadSpine：パンチェンコ・リュドミラ\n==================\n作成者：Arloc\n==================\n\n音楽：\n",
       "context": "InformationMenuManager.panelSources",
       "status": "translated",
       "sourceHash": "f04144b30090b87cbd5b79ff3b356acecacd7722156eb031c4ab3e08a2d6b94d",
@@ -3305,7 +3305,7 @@
     {
       "id": "le_2de0239f1cc59e2fd6bf2fc7",
       "french": "PAS PRÊT",
-      "translation": "まだ準備ができていない",
+      "translation": "準備中",
       "context": "Assets/Script/LobbyPlayerLabelsFR.cs",
       "status": "translated",
       "sourceHash": "2de0239f1cc59e2fd6bf2fc74396a280d460f6def36c6d82da9dc6c205c2db88",
@@ -3425,7 +3425,7 @@
     {
       "id": "le_f016deb873bf25263833bb69",
       "french": "JOUEURS PRETS",
-      "translation": "出場可能な選手",
+      "translation": "準備完了のプレイヤー",
       "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
       "status": "translated",
       "sourceHash": "f016deb873bf25263833bb6944ea4458ae657627b4081f7a702955c9057b29a2",
@@ -3435,7 +3435,7 @@
     {
       "id": "le_9a2ea3f0b02d4af7b549c61a",
       "french": "JOUEURS",
-      "translation": "選手",
+      "translation": "プレイヤー",
       "context": "Assets/LastEntryCharge/LobbyRosterPanelFR.cs",
       "status": "translated",
       "sourceHash": "9a2ea3f0b02d4af7b549c61a16e1c1ab8315d078c18bf0120ce25147f2e2d44a",
@@ -3505,7 +3505,7 @@
     {
       "id": "le_9b271f271c5e3b96b6642099",
       "french": "BRAS DE L'AFFICHAGE DES PV",
-      "translation": "違反切符の表示アーム",
+      "translation": "情報を表示する手首",
       "context": "Assets/LastEntryCharge/VRPlayerPreferencesFR.cs",
       "status": "translated",
       "sourceHash": "9b271f271c5e3b96b6642099958b86ab8bf2f4bc3a3dde8396369a9921650fae",
